@@ -1,0 +1,4058 @@
+ 1000_indicaxanthin
+   1         -5.7      0.000      0.000
+ 1001_betaxanthin
+   1         -7.1      0.000      0.000
+ 1002_pheophorbide_A
+   1         -4.9      0.000      0.000
+ 1003_pyropheophorbide_A
+   1         -5.6      0.000      0.000
+ 1004_26,27-bisnorcholest-5,16-dien-23-yn-3beta,7alpha-diol
+   1         -6.3      0.000      0.000
+ 1005_gelliusterol_E
+   1         -6.9      0.000      0.000
+ 1006_C27-polyacetylene
+   1         -6.9      0.000      0.000
+ 1007_callimplexen_A
+   1         -6.7      0.000      0.000
+ 1008_beta-sitosterol
+   1         -6.4      0.000      0.000
+ 1009_sipholenol_A
+   1         -5.9      0.000      0.000
+ 100_pachycladin_B
+   1         -5.4      0.000      0.000
+ 1010_(2S,4aS,5S,6R,8aS)-5-(2-((1S,3aS,5R,8aS,Z)-1-hydroxy-1,4,4,6-tetramethyl-1,2,3,3a,4,5,8,8a-octahydroazulen-5-yl)-ethyl)-4a,6-dimethyloctahydro-2H-chromene-2,6-diol
+   1         -5.5      0.000      0.000
+ 1011_sipholenone_E
+   1         -6.5      0.000      0.000
+ 1012_sipholenol_J
+   1         -6.5      0.000      0.000
+ 1013_sipholenol_K
+   1         -5.5      0.000      0.000
+ 1014_sipholenol_L
+   1         -6.3      0.000      0.000
+ 1015_sipholenol_M
+   1         -5.7      0.000      0.000
+ 1016_siphonellinol_D
+   1         -6.6      0.000      0.000
+ 1017_siphonellinol_E
+   1         -6.4      0.000      0.000
+ 1018_siphonellinol_C-23-hydroperoxide
+   1         -6.7      0.000      0.000
+ 1019_sipholenol_I
+   1         -5.7      0.000      0.000
+ 101_pachycladin_C
+   1         -5.4      0.000      0.000
+ 1020_callyspongamide_A
+   1         -6.6      0.000      0.000
+ 1021_callyspongenol_A
+   1         -6.9      0.000      0.000
+ 1022_callyspongenol_B
+   1         -7.2      0.000      0.000
+ 1023_callyspongenol_C
+   1         -7.1      0.000      0.000
+ 1024_dehydroisophonochalynol
+   1         -6.8      0.000      0.000
+ 1025_aikupikanyne_A
+   1         -6.6      0.000      0.000
+ 1026_aikupikanyne_B
+   1         -6.4      0.000      0.000
+ 1027_aikupikanyne_C
+   1         -6.3      0.000      0.000
+ 1028_aikupikanyne_D
+   1         -6.9      0.000      0.000
+ 1029_aikupikanyne_E
+   1         -6.9      0.000      0.000
+ 102_pachycladin_D
+   1         -5.4      0.000      0.000
+ 1030_aikupikanyne_F
+   1         -7.0      0.000      0.000
+ 1031_octahydrosiphonochalyne
+   1         -6.5      0.000      0.000
+ 1032_sipholenol_A
+   1         -6.3      0.000      0.000
+ 1033_sipholenone_A
+   1         -6.8      0.000      0.000
+ 1034_siphonellinol_C
+   1         -8.1      0.000      0.000
+ 1035_sipholenol_I
+   1         -4.7      0.000      0.000
+ 1036_14beta,15beta-epoxysipholenol_E
+   1         -5.8      0.000      0.000
+ 1037_C-28_aldehyde_of_sipholenol_A
+   1         -6.1      0.000      0.000
+ 1038_28-hydroxysipholenol_A
+   1         -6.0      0.000      0.000
+ 1039_C-28_aldehyde_of_sipholenone_A
+   1         -7.1      0.000      0.000
+ 103_pachycladin_E
+   1         -5.4      0.000      0.000
+ 1040_C-28_alcohol_of_sipholenone_A
+   1         -5.9      0.000      0.000
+ 1041_sipholenol_A
+   1         -5.9      0.000      0.000
+ 1042_sipholenol_L
+   1         -6.4      0.000      0.000
+ 1043_sipholenone_A
+   1         -6.3      0.000      0.000
+ 1044_neviotine_C
+   1         -6.3      0.000      0.000
+ 1045_neviotine_A
+   1         -6.3      0.000      0.000
+ 1046_sipholenol_A
+   1         -6.3      0.000      0.000
+ 1047_sipholenone_A
+   1         -6.8      0.000      0.000
+ 1048_sipholenol_L
+   1         -6.3      0.000      0.000
+ 1049_beta-sitosterol
+   1         -6.4      0.000      0.000
+ 104_sclerophytin_A
+   1         -5.4      0.000      0.000
+ 1050_Delta7-avenasterol
+   1         -7.2      0.000      0.000
+ 1051_stigmasterol
+   1         -6.4      0.000      0.000
+ 1052_Delta5-avenasterol
+   1         -6.5      0.000      0.000
+ 1053_lanosterol
+   1         -7.3      0.000      0.000
+ 1054_Delta7-stigmastenol
+   1         -6.6      0.000      0.000
+ 1055_sitostanol
+   1         -6.1      0.000      0.000
+ 1056_campesterol
+   1         -8.4      0.000      0.000
+ 1057_alpha-tocopherol
+   1         -7.2      0.000      0.000
+ 1058_beta-tocopherol
+   1         -7.2      0.000      0.000
+ 1059_gamma-tocopherol
+   1         -7.4      0.000      0.000
+ 105_cladiellisin
+   1         -4.9      0.000      0.000
+ 1060_delta-tocopherol
+   1         -7.2      0.000      0.000
+ 1061_N-methyl-2(2'-methoxybutyl),6(2''-hydroxybutyl)-Delta3-piperidine
+   1         -5.0      0.000      0.000
+ 1062_N-methyl-2(2'-hydroxybutyl),6(2''-hydroxybutyl)-Delta3-piperidine
+   1         -5.5      0.000      0.000
+ 1063_dammarane_triterpene1
+   1         -7.5      0.000      0.000
+ 1064_dammarane_triterpene2
+   1         -6.5      0.000      0.000
+ 1065_5,7,4'-trihydroxy-3-methoxyflavone
+   1         -5.6      0.000      0.000
+ 1066_isokaempferide
+   1         -5.6      0.000      0.000
+ 1067_5,7,4'-trihydroxy-3,3'-dimethoxyflavone
+   1         -6.0      0.000      0.000
+ 1068_5,7,4'-trihydroxy-6,3'-dimethoxyflavone
+   1         -6.3      0.000      0.000
+ 1069_jaceosidin
+   1         -6.3      0.000      0.000
+ 106_3-acetylcladiellisin
+   1         -5.3      0.000      0.000
+ 1070_5,4'-dihydroxy-3,6,7-trimethoxyflavone
+   1         -5.3      0.000      0.000
+ 1071_penduletin
+   1         -5.3      0.000      0.000
+ 1073_axillarin
+   1         -5.8      0.000      0.000
+ 1074_5,7,4'-trihydroxy-6,3',5'-trimethoxyflavone
+   1         -5.9      0.000      0.000
+ 1075_5,4'-dihydroxy-3,6,7,3'-tetramethoxyflavone
+   1         -5.7      0.000      0.000
+ 1076_chrysosplenetin
+   1         -5.6      0.000      0.000
+ 1077_5,3'-dihydroxy-3,6,7,4',5'-pentamethoxyflavone
+   1         -5.4      0.000      0.000
+ 1078_5,4'-dihydroxy-3,6,7,8,3'-pentamethoxyflavone
+   1         -5.2      0.000      0.000
+ 1079_5-hydroxy-3,6,7,3',4',5'-hexamethoxyflavone
+   1         -5.5      0.000      0.000
+ 107_3,6-diacetylcladiellisin
+   1         -5.3      0.000      0.000
+ 1080_17alpha-hydroxycabralealactone
+   1         -7.0      0.000      0.000
+ 1081_cabralealactone
+   1         -6.8      0.000      0.000
+ 1082_3-O-acetyl-12beta-acetoxy-17alpha-hydroxycabraleahydroxylactone
+   1         -6.3      0.000      0.000
+ 1083_17alpha-hydroxycabraleahydroxylactone
+   1         -6.6      0.000      0.000
+ 1084_20(S),24(R)-epoxydammarane-3alpha,17alpha,25-triol
+   1         -6.3      0.000      0.000
+ 1085_12beta-acetoxycleocarpone
+   1         -5.7      0.000      0.000
+ 1086_12beta-acetoxycleocarpanol
+   1         -6.6      0.000      0.000
+ 1087_3-O-acetyl-12beta-hydroxycleocarpanol
+   1         -6.5      0.000      0.000
+ 1088_cleocarpone
+   1         -7.1      0.000      0.000
+ 1089_3-O-acetyl-12beta-acetoxy-25-O-ethylcleocarpanol
+   1         -3.7      0.000      0.000
+ 108_(+)-polyanthelin_A
+   1         -5.6      0.000      0.000
+ 1090_dammarane_triterpene1
+   1         -6.5      0.000      0.000
+ 1091_1(12),22(23)-tetradehydrocabralealactone
+   1         -7.4      0.000      0.000
+ 1092_dammarane_triterpene13
+   1         -7.5      0.000      0.000
+ 1093_12beta-acetoxyl(2),22(23)-tetradehydrocabralea-lactone
+   1         -5.6      0.000      0.000
+ 1094_12beta-acetoxy-Delta-1,2-dehydrocabralea-lactone
+   1         -6.9      0.000      0.000
+ 1095_dammarane_triterpene16
+   1         -6.0      0.000      0.000
+ 1096_dammarane_triterpene17
+   1         -7.6      0.000      0.000
+ 1097_dammarane_triterpene18
+   1         -6.2      0.000      0.000
+ 1099_pinoresinol-4'-O-beta-D-glucopyranoside
+   1         -5.4      0.000      0.000
+ 109_klysimplexin_G
+   1         -4.7      0.000      0.000
+ 10_beta-sitosterol_glucoside
+   1         -5.3      0.000      0.000
+ 1100_liriodendrin
+   1         -6.3      0.000      0.000
+ 1101_alangilignoside_D
+   1         -6.1      0.000      0.000
+ 1102_(+)-lariciresinol-9-O-beta-D-glucopyranoside
+   1         -6.2      0.000      0.000
+ 1103_(+)-lyoniresinol-3a-O-beta-D-glucopyranoside
+   1         -4.5      0.000      0.000
+ 1104_(-)-lyoniresinol-3a-O-beta-D-glucopyranoside
+   1         -5.6      0.000      0.000
+ 1105_dehydrodiconiferyl_alcohol-4-O-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 1106_kaempferol-7-rhamnoside
+   1         -6.3      0.000      0.000
+ 1107_kaempferol-3-rutinoside
+   1         -5.7      0.000      0.000
+ 1108_kaempferol-3,7-dirhamnoside
+   1         -6.2      0.000      0.000
+ 1109_kaempferol-3-glucoside-7-rhamnoside
+   1         -5.7      0.000      0.000
+ 110_klysimplexin_E
+   1         -5.0      0.000      0.000
+ 1110_kaempferol-3-rhamnoside-7-glucoside
+   1         -5.7      0.000      0.000
+ 1111_quercetin-7-rhamnoside
+   1         -6.8      0.000      0.000
+ 1112_quercetin-3-rutinoside
+   1         -7.7      0.000      0.000
+ 1113_quercetin-7-rutinoside
+   1         -6.6      0.000      0.000
+ 1114_quercetin-3,7-dirhamnoside
+   1         -6.3      0.000      0.000
+ 1115_quercetin-3-glucoside-7-rhamnoside
+   1         -6.4      0.000      0.000
+ 1116_isorhamnetin-3-rutinoside
+   1         -6.8      0.000      0.000
+ 1117_isorhamnetin-3,7-dirhamnoside
+   1         -6.3      0.000      0.000
+ 1118_apigenin-6,8-di-C-glucoside
+   1         -6.7      0.000      0.000
+ 1119_paradoxonine
+   1         -4.8      0.000      0.000
+ 111_sclerophytin_F_methyl_ether
+   1         -5.1      0.000      0.000
+ 1120_paradoxenoline
+   1         -4.9      0.000      0.000
+ 1121_paradoxenoic_acid
+   1         -5.3      0.000      0.000
+ 1122_6-ethy-6-methylmorpholine-3-one
+   1         -4.8      0.000      0.000
+ 1123_6-ethyl,6-methyl-5,6-dihydro-4H-1,4-oxazin-3-ol
+   1         -4.9      0.000      0.000
+ 1124_7,9-dihydroxy-cembra-1(15),4,12-triene-19-oic_acid
+   1         -5.3      0.000      0.000
+ 1125_quercetin
+   1         -6.0      0.000      0.000
+ 1126_quercetin-3-O-beta-D-glucopyranoside
+   1         -5.5      0.000      0.000
+ 1127_isoquercetrin
+   1         -5.9      0.000      0.000
+ 1128_alpha-amyrin
+   1         -6.7      0.000      0.000
+ 1129_stigmasterol
+   1         -7.1      0.000      0.000
+ 112_(6Z)-cladiellin_(cladiella-6Z,11(17)-dien-3-ol)
+   1         -5.9      0.000      0.000
+ 1130_stigmasterol-3-O-beta-D-glucopyranoside
+   1         -6.5      0.000      0.000
+ 1131_quercetin-3-glucoside-7-rhamnoside
+   1         -6.5      0.000      0.000
+ 1132_6-di(7-hydroxy,1,_5-epoxy_germacrane)
+   1         -5.1      0.000      0.000
+ 1133_4(15)-guaiane-6-ol
+   1         -5.2      0.000      0.000
+ 1134_7alpha-germacra-1(10),4(15)-diene-5beta,6alpha-diol
+   1         -4.8      0.000      0.000
+ 1135_4,7,8-eudesma-triol
+   1         -4.8      0.000      0.000
+ 1136_pinocembrin
+   1         -6.1      0.000      0.000
+ 1137_18-O-diacetyl-16-O-(3-hydroxy-3-methylglutaryl)-7-hydroperoxydolabella-3,8(17)_diene-2,16,18_triol
+   1         -5.2      0.000      0.000
+ 1138_methyl_ester_of_2,18-O-diacetyl-16-O-(3-hydroxy-3-methylglutaryl)-7-hydroperoxydolabella-3,8(17)_diene-2,16,18_triol
+   1         -5.2      0.000      0.000
+ 1139_(1R,_2R,_3E,_7E,_11R,12S)-2-O-acetyl-16-O-(3-hydroxy-3-methylglutaryl)-dolabella-3,7-diene-2,_16,18-triol
+   1         -5.5      0.000      0.000
+ 113_sclerophytin_B
+   1         -4.9      0.000      0.000
+ 1140_(1R,2R,3E,7E,11R,12S)-2,_18-O-diacetyl-16-O-(3-hydroxy-3-methylglutaryl)-dolabella-3,7-dien-2,16,18_-triol
+   1         -6.2      0.000      0.000
+ 1141_methyl_ester_of_(1R,2R,3E,7E,11R,12S)-2,18-O-diacetyl-16-O-(3-hydroxy-3-methylglutaryl)-dolabella-3,7-dien-2,16,18_-triol
+   1         -5.4      0.000      0.000
+ 1142_5-hydroxy-3,_6,7,3',4',5'-hexamethoxyflavone
+   1         -5.4      0.000      0.000
+ 1143_chrysosplenetin
+   1         -5.7      0.000      0.000
+ 1144_5,3'-dihydroxy-3,6,7,4',5'-pentamethoxyflavone
+   1         -5.4      0.000      0.000
+ 1145_penduletin
+   1         -5.6      0.000      0.000
+ 1146_kaempferitin
+   1         -6.6      0.000      0.000
+ 1147_kaempferol_7-O-alpha-L-rhamnoside
+   1         -6.9      0.000      0.000
+ 1148_kaempferol-3-O-glucoside-7-O-rhamnoside
+   1         -5.5      0.000      0.000
+ 1149_isorhamnetin-3-O-glucoside-7-O-rhamnoside
+   1         -6.4      0.000      0.000
+ 114_patagonicol
+   1         -5.2      0.000      0.000
+ 1150_buchariol
+   1         -5.4      0.000      0.000
+ 1151_drosericarpone
+   1         -6.4      0.000      0.000
+ 1152_stigmasterol_glucoside
+   1         -5.1      0.000      0.000
+ 1153_1-isocyano-4-methyl_benzene
+   1         -5.1      0.000      0.000
+ 1154_gamma-muurolene
+   1         -5.1      0.000      0.000
+ 1155_(cis)_nerolidole
+   1         -5.5      0.000      0.000
+ 1156_2-methylbutyl_isothiocyanate
+   1         -4.0      0.000      0.000
+ 1157_4-methylthiobutyl_isothiocyanate
+   1         -3.7      0.000      0.000
+ 1158_isothiocyanatomethyl_benzene
+   1         -5.3      0.000      0.000
+ 1159_4,6-dimethyltetrahydro-1,3-oxazine-2-thione
+   1         -4.0      0.000      0.000
+ 115_sarcophine
+   1         -5.6      0.000      0.000
+ 1160_N-(-4-methyl-sulphinyl-3-butenyl)_isothiocyanate
+   1         -3.9      0.000      0.000
+ 1161_guai-7(11),8-diene
+   1         -5.7      0.000      0.000
+ 1162_1-hydroxy-guai-3,10(14)-diene
+   1         -6.4      0.000      0.000
+ 1163_18-hydroxy-dollabela-8(17)-ene
+   1         -6.0      0.000      0.000
+ 1164_(24E)_stigmasta-5,8-dien-3beta-ol
+   1         -6.6      0.000      0.000
+ 1165_teucladiol
+   1         -5.5      0.000      0.000
+ 1166_6-hydroxynardol
+   1         -5.5      0.000      0.000
+ 1167_1alpha,5beta-guai-10(14)-ene-4beta,6beta-diol
+   1         -5.5      0.000      0.000
+ 1168_buchariol
+   1         -5.4      0.000      0.000
+ 1169_4,10_epoxy-6alpha-hydroxyguaiane
+   1         -5.2      0.000      0.000
+ 116_singardin
+   1         10.5      0.000      0.000
+ 1170_isorhamnetin-3-O-beta-D-glucoside
+   1         -5.8      0.000      0.000
+ 1171_quercetin-3'-methoxy-3-O-(4''-acetylrhamnoside)-7-O-alpha-rhamnoside
+   1         -6.2      0.000      0.000
+ 1172_kaempferol-4'-methoxy-3,7-dirhamnoside
+   1         -5.7      0.000      0.000
+ 1173_guai-7(11),8-diene
+   1         -5.7      0.000      0.000
+ 1174_1-hydroxy-guai-3,10(14)-diene
+   1         -6.4      0.000      0.000
+ 1175_18-hydroxy-dollabela-8(17)-ene
+   1         -6.0      0.000      0.000
+ 1176_(24E)_stigmasta-5,8-dien-3beta-ol
+   1         -7.1      0.000      0.000
+ 1177_teucladiol
+   1         -5.5      0.000      0.000
+ 1178_6-hydroxynardol
+   1         -5.5      0.000      0.000
+ 1179_1alpha,5beta-guai-10(14)-ene-4beta,6beta-diol
+   1         -5.5      0.000      0.000
+ 117_guaianediol
+   1         -5.0      0.000      0.000
+ 1180_buchariol
+   1         -5.2      0.000      0.000
+ 1181_4,10_epoxy-6alpha-hydroxyguaiane
+   1         -5.2      0.000      0.000
+ 1182_isorhamnetin-3-O-beta-D-glucoside
+   1         -5.7      0.000      0.000
+ 1183_quercetin-3'-methoxy-3-O-(4''-acetylrhamnoside)-7-O-alpha-rhamnoside
+   1         -5.6      0.000      0.000
+ 1184_kaempferol-4'-methoxy-3,7-dirhamnoside
+   1         -6.1      0.000      0.000
+ 1185_7-geranyloxycoumarin
+   1         -7.6      0.000      0.000
+ 1186_auraptene
+   1         -7.7      0.000      0.000
+ 1187_6'-hydroxy-beta-cycloauraptene
+   1         -7.4      0.000      0.000
+ 1188_15alpha-acetoxycleomblynol_A
+   1         -5.8      0.000      0.000
+ 1189_11alpha,15alpha-diacetoxybrachycarpon-22(23)-ene
+   1         -5.7      0.000      0.000
+ 118_(1R,5S,8R,10S,11R)-11-hydroxy-1-isoprenyl-8-methyl-3,6-dioxo-5,8-epoxycyclotetradec-12-ene_10,12-carbolactone
+   1         -6.5      0.000      0.000
+ 1190_quercetin-3-O-[6'''-alpha-L-rhamnosyl-6''-beta-D-glucosyl]-beta-D-glucoside
+   1         -7.0      0.000      0.000
+ 1191_rutin
+   1         -6.3      0.000      0.000
+ 1192_quercetin-3-O-glucoside
+   1         -6.4      0.000      0.000
+ 1193_quercetin-3-O-glucoside-7-O-rhamnoside
+   1         -6.1      0.000      0.000
+ 1194_succulentoside_A
+   1         -2.3      0.000      0.000
+ 1195_succulentoside_B
+   1         -2.2      0.000      0.000
+ 1196_Snatzkein_F
+   1         -0.8      0.000      0.000
+ 1197_gypsogenin
+   1         -5.4      0.000      0.000
+ 1198_gypsogenic_acid
+   1         -6.4      0.000      0.000
+ 1199_Gypsogenin_3-O-rhamnosylglucuronide
+   1         -6.1      0.000      0.000
+ 119_5-epi-sinuleptolide
+   1         -6.6      0.000      0.000
+ 11_3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-2-[4-(3-hydroxy-1-(E)-propenyl)-2-methoxyphenoxy]propyl-beta-D-glucopyranoside
+   1         -5.8      0.000      0.000
+ 1200_beta-D-glucopyranosiduronic_acid
+   1         -4.8      0.000      0.000
+ 1201_isorhamnetin_3-[3'''-feruloylrhamnosyl(16)galactoside
+   1         -7.8      0.000      0.000
+ 1202_isorhamnetin_3-robinobioside
+   1         -5.5      0.000      0.000
+ 1203_(-)_catechin
+   1         -5.6      0.000      0.000
+ 1204_3-O-[beta-D-glucopyranoside-(14)-O-alpha-L-(2-O-acetyl)-arabinopyranosyl]-2alpha,3beta,19beta,20beta-tetrahydroxyfern-7-en-6-oxo-29-oic_acid
+   1         -5.8      0.000      0.000
+ 1205_16-O-alpha-L-arabinopyranosyl-6alpha,16alpha,20beta,21alpha-tetrahydroxytetrahymanol
+   1         -7.1      0.000      0.000
+ 1206_16-O-alpha-L-arabinopyranosyl-20-O-beta-D-glucopyranosyl-6alpha,16alpha,20beta,21alpha-tetrahydroxytetrahymanol
+   1         -5.3      0.000      0.000
+ 1207_16-O-(4-O-acetyl)-alpha-L-arabinopyranosyl-20-O-beta-D-glucopyranosyl-6alpha,16alpha,20beta,21alpha-tetrahydroxytetrahymanol
+   1         -4.5      0.000      0.000
+ 1208_succulentoside_A
+   1         -2.9      0.000      0.000
+ 1209_gypsogenin_3-O-beta-xylopyranosyl-(13)-[beta-galactopyranosyl-(12)]-beta-glucuronopyranoside
+   1         -4.6      0.000      0.000
+ 120_sinuleptolide
+   1         -5.2      0.000      0.000
+ 1210_quillaic_acid_3-O-beta-xylopyranosyl-(13)-[beta-galactopyranosyl-(12)]-beta-glucuronopyranoside
+   1          2.1      0.000      0.000
+ 1211_kaempferol
+   1         -5.8      0.000      0.000
+ 1212_quercetin
+   1         -6.0      0.000      0.000
+ 1213_luteolin
+   1         -6.2      0.000      0.000
+ 1214_myricetin-3-glucoside
+   1         -6.4      0.000      0.000
+ 1215_isoorientin
+   1         -6.2      0.000      0.000
+ 1216_orientin-7-methoxide
+   1         -6.8      0.000      0.000
+ 1217_quercetin-7-glucoside
+   1         -6.6      0.000      0.000
+ 1218_kaempferol-3-rhamnoside-7-glucouronic_acid
+   1         -6.4      0.000      0.000
+ 1219_luteolin-6-dirhamnoside
+   1         -5.7      0.000      0.000
+ 121_sarcophytol_A
+   1         -7.1      0.000      0.000
+ 1220_gallic_acid
+   1         -5.1      0.000      0.000
+ 1221_protocatechuic_acid
+   1         -5.3      0.000      0.000
+ 1222_p-hydroxy_benzoic_acid
+   1         -5.2      0.000      0.000
+ 1223_p-coumaric_acid
+   1         -5.6      0.000      0.000
+ 1224_phenol
+   1         -4.4      0.000      0.000
+ 1225_o-coumaric_acid
+   1         -5.5      0.000      0.000
+ 1226_gypsin_A
+   1         -6.1      0.000      0.000
+ 1227_gypsin_B
+   1         -7.1      0.000      0.000
+ 1228_gypsin_C
+   1         13.8      0.000      0.000
+ 1229_gypsin_D
+   1         -3.5      0.000      0.000
+ 122_sarcophine
+   1         -5.3      0.000      0.000
+ 1230_vaccaroside_C
+   1         -1.3      0.000      0.000
+ 1231_herniariasaponin_C
+   1         10.4      0.000      0.000
+ 1232_herniariasaponin_D
+   1         -1.8      0.000      0.000
+ 1233_snatzkein_C
+   1         -3.7      0.000      0.000
+ 1234_snatzkein_D
+   1          0.5      0.000      0.000
+ 1235_snatzkein_A
+   1         -4.9      0.000      0.000
+ 1236_snatzkein_B
+   1         -4.4      0.000      0.000
+ 1237_succulentoside_C
+   1          6.1      0.000      0.000
+ 1238_succulentoside_D
+   1         -5.6      0.000      0.000
+ 1239_succulentoside_E
+   1         -5.5      0.000      0.000
+ 123_2-epi-16-deoxysarcophine
+   1         -5.6      0.000      0.000
+ 1240_succulentoside_F
+   1         -6.7      0.000      0.000
+ 1241_pristimerin
+   1         -6.2      0.000      0.000
+ 1242_(20alpha)-3-hydroxy-2-oxo-24-nor-friedela-1(10),3,5,7-tetraen-carboxylic_acid-(29)-methylester
+   1         -6.7      0.000      0.000
+ 1243_(-)-4'-methylepigallocatechin
+   1         -5.9      0.000      0.000
+ 1244_(-)-4'-methylepigallocatechin_5-O-beta-D-glucopyranoside
+   1         -6.0      0.000      0.000
+ 1245_(-)-epigallocatechin
+   1         -6.5      0.000      0.000
+ 1246_(+)-4'-methylgallocatechin_3'-O-beta-D-glucopyranoside
+   1         -6.5      0.000      0.000
+ 1247_epicatechin_(4beta8)_epigallocatechin
+   1         -6.4      0.000      0.000
+ 1248_(-)-epicatechin_(4beta8)_(-)-4'-methylepigallocatechin
+   1         -5.5      0.000      0.000
+ 1249_(-)-epicatechin_(4beta8)_(-)-epicatechin
+   1         -6.7      0.000      0.000
+ 124_incensole
+   1         -5.5      0.000      0.000
+ 1250_procyanidin_B-2
+   1         -6.4      0.000      0.000
+ 1251_phloroglucinol-1-O-beta-D-glucopyranoside
+   1         -5.1      0.000      0.000
+ 1252_chaetorcinol
+   1         -7.3      0.000      0.000
+ 1253_(+)-sclerotiorin
+   1         -6.4      0.000      0.000
+ 1254_(+)-sclerotioramin
+   1         -6.1      0.000      0.000
+ 1255_(+)-isochromophilone_IV
+   1         -6.2      0.000      0.000
+ 1256_(+)-isochromophilone_VII
+   1         -6.1      0.000      0.000
+ 1257_SB_236050
+   1         -5.9      0.000      0.000
+ 1258_deacetylated_sclerotiorin
+   1         -6.4      0.000      0.000
+ 1259_chaetominedione
+   1         -6.6      0.000      0.000
+ 125_1,15beta-epoxy-2-epi-16-deoxysarcophine
+   1         -5.6      0.000      0.000
+ 1260_4-[5-Hydroxymethyl)-2-furyl]benzo[b][1,6]naphthyridine-1,3(2H,5H)-dione
+   1         -6.6      0.000      0.000
+ 1261_2-furancarboxylic_acid
+   1         -4.5      0.000      0.000
+ 1262_5-(hydroxymethyl)-2-furancarboxylic_acid
+   1         -5.0      0.000      0.000
+ 1263_3beta-hydroxy-5alpha,6alpha-epoxy-beta-ionone-2alpha-O-beta-D-glucopyranoside
+   1         -5.6      0.000      0.000
+ 1264_9,12,13-trihydroxyoctadeca-10(E),15(Z)-dienoic_acid
+   1         -6.7      0.000      0.000
+ 1265_9,12,13-trihydroxyoctadeca-10(E)-dienoic_acid
+   1         -6.4      0.000      0.000
+ 1266_3,4,5-trimethoxyphenyl-beta-D-glucopyranoside
+   1         -5.5      0.000      0.000
+ 1267_9-hydroxylinaloyl_glucoside
+   1         -5.5      0.000      0.000
+ 1268_taxiphyllin
+   1         -5.5      0.000      0.000
+ 1269_trans-N-feruloyltyramine
+   1         -7.4      0.000      0.000
+ 126_9alpha-hydroxy-2-epi-16-deoxysarcophine
+   1         -5.6      0.000      0.000
+ 1270_S-(-)-trans-N-feruloyloctopamine
+   1         -7.1      0.000      0.000
+ 1271_tetranin_A
+   1         -6.1      0.000      0.000
+ 1272_tetranin_B
+   1         -7.2      0.000      0.000
+ 1273_1-(3,5'-dihydroxy-4'-methoxyphenyl)-2-phenylethanol
+   1         -6.2      0.000      0.000
+ 1274_5,2'-dihydroxy-50-methoxy-6,7-methylenedioxy-isoflavone
+   1         -7.2      0.000      0.000
+ 1275_3-O-beta-D-xylopyranosyl-(12)-O-beta-D-glucuronopyranosyl-akebonic_acid_28-O-beta-D-glucopyranoside
+   1         -3.2      0.000      0.000
+ 1276_3-O-beta-D-xylopyranosyl-(12)-O-beta-D-glucuronopyranosyl-29-hydroxyoleanolic_acid_28-O-beta-D-glucopyranoside
+   1         -2.4      0.000      0.000
+ 1277_pseudoginsenoside_RT1
+   1         -1.6      0.000      0.000
+ 1278_silphioside_G
+   1         -4.3      0.000      0.000
+ 1279_boussingoside_A2
+   1         -5.9      0.000      0.000
+ 127_10alpha-hydroxy-2-epi-16-deoxysarcophine
+   1         -5.5      0.000      0.000
+ 1280_kaempferol-3,7-dirhamnoside
+   1         -6.0      0.000      0.000
+ 1281_kaempferitrin
+   1         -6.4      0.000      0.000
+ 1282_lespedin
+   1         -6.5      0.000      0.000
+ 1283_kaempferol-3-O-(4-beta-D-xylopyranosyl)-alpha-L-rhamnopyranoside-7-O-alpha-L-rhamno-pyranoside
+   1         -5.8      0.000      0.000
+ 1284_kaempferol-3-O-(4-beta-D-apiofuranosyl)-alpha-L-rhamnopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -5.6      0.000      0.000
+ 1285_quercetin_3,7-di-O-beta-D-glucopyranoside
+   1         -5.8      0.000      0.000
+ 1286_quercetin_3-O-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 1287_kaempferol_3-O-(4-beta-Dâ€“xylopyranosyl)-alpha-L-rhamnopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -5.2      0.000      0.000
+ 1287_kaempferol_3-O-(4-beta-ylopyranosyl)-alpha-L-rhamnopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -5.6      0.000      0.000
+ 1288_kaempferol_3-O-(4-beta-D-apiofuranosyl)-alpha-L-rhamnopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -5.4      0.000      0.000
+ 1289_kaempferol_3,7-di-O-alpha-L-rhamnopyranoside
+   1         -6.3      0.000      0.000
+ 128_9R-hydroxysarcophine
+   1         -6.5      0.000      0.000
+ 1290_kaempferol_3-O-beta-D-glucopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -6.2      0.000      0.000
+ 1291_kaempferol_aglycone
+   1         -5.8      0.000      0.000
+ 1292_quercetin_3-O-beta-D-glucopyranoside
+   1         -5.9      0.000      0.000
+ 1293_manevalic_acid
+   1         -6.4      0.000      0.000
+ 1294_azizic_acid
+   1         -6.1      0.000      0.000
+ 1295_scutellarein-7-O-alpha-rhamnopyranosyl-(12)-alpha-rhamnopyranosyl-(12)-alpha-rhamnopyranoside
+   1         -6.1      0.000      0.000
+ 1296_scutellarein-7-O-alpha-rhamnopyranosyl-(12)-alpha-rhamnopyranoside
+   1         -6.2      0.000      0.000
+ 1297_isorhamnetin_3-O-beta-D-xylopyranosyl-(13)-alpha-L-rhamnopyranosyl-(16)-beta-D-galactopyranoside
+   1         -5.7      0.000      0.000
+ 1297_isorhamnetin_3-O-beta-D-xylopyranosyl-(1â€³â€³3)-alpha-L-rhamnopyranosyl-(16â€³)-beta-D-galactopyranoside
+   1         -6.5      0.000      0.000
+ 1298_thymol
+   1         -4.9      0.000      0.000
+ 1299_p-menth-3-ene-1,2-diol
+   1         -5.2      0.000      0.000
+ 129_14beta-hydroxy-2-epi-16-deoxysarcophine
+   1         -5.4      0.000      0.000
+ 12_syringaresinol_4,4'-O-bis-beta-D-glucopyranoside
+   1         -5.3      0.000      0.000
+ 1300_(-)(1R,4S)-1,4-dihydroxy-p-menth-2-ene
+   1         -4.9      0.000      0.000
+ 1301_(-)(1R,2S,3S,4S)-1,2,3,4-tetrahydroxy-p-menthane
+   1         -4.5      0.000      0.000
+ 1302_chenopanone
+   1         -5.3      0.000      0.000
+ 1303_20-hydroxyecdysone
+   1         -6.8      0.000      0.000
+ 1304_portulasoid
+   1         -4.6      0.000      0.000
+ 1305_septanoecdysone
+   1         -5.9      0.000      0.000
+ 1306_alpha-spinasterol
+   1         -7.0      0.000      0.000
+ 1307_triacetonamine
+   1         -4.8      0.000      0.000
+ 1308_betaine
+   1         -3.4      0.000      0.000
+ 1309_quercetin-3-O-(6-caffeoyl)-sophoroside
+   1         -6.9      0.000      0.000
+ 130_sarcophine
+   1         -6.4      0.000      0.000
+ 1310_quercetin-3-O-(6-feruloyl)-sophoroside
+   1         -6.1      0.000      0.000
+ 1311_quercetin-3-O-sophoroside
+   1         -5.8      0.000      0.000
+ 1312_quercetin-3,7-O-beta-diglucopyranoside
+   1         -5.6      0.000      0.000
+ 1313_oleanolic_acid-3-O-beta-glucopyranoside
+   1         -5.3      0.000      0.000
+ 1314_chikusetsusaponin_Iva
+   1         -5.3      0.000      0.000
+ 1315_chikusetsusaponin-IVa_methyl_ester
+   1         -5.4      0.000      0.000
+ 1316_oleanolic_acid-3,28-beta-diglucopyranoside
+   1         -3.8      0.000      0.000
+ 1317_monacanthin_A
+   1         -6.9      0.000      0.000
+ 1318_monacanthin_B
+   1         -7.5      0.000      0.000
+ 1319_quercetin-4'-O-beta-D-galactoside
+   1         -6.7      0.000      0.000
+ 131_3beta-25-dihydroxy-4-methyl-5alpha,8alpha-epidioxy-2-ketoergost-9-ene
+   1         -6.5      0.000      0.000
+ 1320_luteolin-7-O-rhamnoside
+   1         -7.0      0.000      0.000
+ 1321_luteolin-7-O-glucoside
+   1         -6.4      0.000      0.000
+ 1322_penta-O-galloyl-beta-D-glucose
+   1         -6.7      0.000      0.000
+ 1323_1,2,3,6-tetra-O-galloyl-beta-D-glucose
+   1         -7.8      0.000      0.000
+ 1324_kaempferol_3-O-alpha-rhamnoside-7-O-beta-D-xylosyl(12)-O-alpha-L-rhamnoside
+   1         -6.1      0.000      0.000
+ 1325_kaempferol
+   1         -5.8      0.000      0.000
+ 1326_kaempferol-7-rhamnoside
+   1         -6.9      0.000      0.000
+ 1327_kaempferol-3-rhamnoside
+   1         -6.8      0.000      0.000
+ 1328_kaempferol-7-glucoside
+   1         -6.6      0.000      0.000
+ 1329_kaempferol-3,7-dirhamnoside
+   1         -6.5      0.000      0.000
+ 132_N-[(2S,3R,E)-1,3-dihydroxyhexacos-4-en-2-yl]icosanamide
+   1         -3.9      0.000      0.000
+ 1330_herbacetin
+   1         -5.7      0.000      0.000
+ 1331_quercetin
+   1         -6.0      0.000      0.000
+ 1332_scopoletin
+   1         -5.9      0.000      0.000
+ 1333_kaempferol-3-O-{(4-beta-D-apiofuranosyl)-alpha-L-rhamnopyranoside}-7-O-alpha-L-rhamnopyranoside
+   1         -5.8      0.000      0.000
+ 1334_kaempferol-3-O-{(4-beta-D-xylopyranosyl)-alpha-L-rhamnopyranoside}-7-O-alpha-L-rhamnopyranoside
+   1         -5.6      0.000      0.000
+ 1335_kaempferol-3-O-beta-D-glucopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -6.0      0.000      0.000
+ 1336_()-carnegine
+   1         -5.3      0.000      0.000
+ 1336_(Â±)-carnegine
+   1         -5.3      0.000      0.000
+ 1337_()-1,2-dimethyl-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline
+   1         -5.3      0.000      0.000
+ 1338_(âˆ’)-1-methylcorypalline
+   1         -6.0      0.000      0.000
+ 1338_1-methylcorypalline
+   1         -6.0      0.000      0.000
+ 1339_1,2-dimethyl-6-methoxy-7-hydroxy-1,2,3,4-tetrahydroisoquinoline
+   1         -6.0      0.000      0.000
+ 133_N-[(2S,3S,4R)-1,3,4-trihydroxyhexacosan-2-yl]icosanamide
+   1         -5.4      0.000      0.000
+ 1340_hederagenin-3-O-beta-D-glucuronopyranoside
+   1         -5.8      0.000      0.000
+ 1341_oleanolic_acid-3-O-beta-D-glucuronopyranoside
+   1         -6.3      0.000      0.000
+ 1342_calenduloside_E
+   1         -6.2      0.000      0.000
+ 1343_2alpha,3beta,17,19-tetracetoxyspongia-13-(16),14-diene
+   1         -4.9      0.000      0.000
+ 1344_3beta-hydroxy-17,19-diacetoxyspongia-13(16),14-dien-2-one
+   1         -4.4      0.000      0.000
+ 1345_17-hydroxy-3beta,19-diacetoxyspongia-13(16),14-dien-2-one
+   1         -5.9      0.000      0.000
+ 1346_17-hydroxy-3alpha,19-diacetoxyspongia-13(16),14-dien-2-one
+   1         -5.3      0.000      0.000
+ 1347_17,_19-dihydroxy-3beta-acetoxyspongia-13(16),14-dien-2-one
+   1         -5.9      0.000      0.000
+ 1348_epispongiatriol_triacetate
+   1         -4.9      0.000      0.000
+ 1349_epispongiatriol
+   1         -5.8      0.000      0.000
+ 134_(R)-20-hydroxy-N-[(2S,3S,4R)-1,3,4-trihydroxypentacosan-2-yl]nonadecanamide
+   1         -5.1      0.000      0.000
+ 1350_1-O-acetyl_prinsepiol
+   1         -5.9      0.000      0.000
+ 1351_1alpha-hydroxypinoresinol
+   1         -6.2      0.000      0.000
+ 1352_(+)Ë—cycloolivil
+   1         -5.6      0.000      0.000
+ 1352_cycloolivil
+   1         -5.5      0.000      0.000
+ 1353_(Ë—)pinellic_acid
+   1         -6.4      0.000      0.000
+ 1353_pinellic_acid
+   1         -6.3      0.000      0.000
+ 1354_benzoic_acid
+   1         -5.2      0.000      0.000
+ 1355_p-hydroxybenzoic_acid
+   1         -5.2      0.000      0.000
+ 1356_protocatechuic_acid
+   1         -5.2      0.000      0.000
+ 1357_vanillic_acid
+   1         -5.3      0.000      0.000
+ 1358_gallic_acid
+   1         -4.8      0.000      0.000
+ 1359_epicatechin
+   1         -6.3      0.000      0.000
+ 135_sarcophine
+   1         -6.3      0.000      0.000
+ 1360_catechin
+   1         -5.8      0.000      0.000
+ 1361_epigallocatechin
+   1         -6.7      0.000      0.000
+ 1362_gallocatechin
+   1         -5.5      0.000      0.000
+ 1363_astragalin
+   1         -6.0      0.000      0.000
+ 1364_tiliroside
+   1         -7.0      0.000      0.000
+ 1365_quercetrin
+   1         -6.5      0.000      0.000
+ 1366_isoquercitrin
+   1         -5.4      0.000      0.000
+ 1367_myricitrin
+   1         -6.9      0.000      0.000
+ 1368_beta-sitosterol
+   1         -6.5      0.000      0.000
+ 1369_daucosterol
+   1         -5.8      0.000      0.000
+ 136_2-epi-sarcophine
+   1         -5.6      0.000      0.000
+ 1370_lepadiformine_A
+   1         -6.0      0.000      0.000
+ 1371_lepadiformine_B
+   1         -5.5      0.000      0.000
+ 1372_lepadiformine_C
+   1         -5.8      0.000      0.000
+ 1373_lepadiformine
+   1         -5.8      0.000      0.000
+ 1374_gallic_acid
+   1         -5.2      0.000      0.000
+ 1375_methyl_gallate
+   1         -4.8      0.000      0.000
+ 1376_di-O-galloyl_glucose
+   1         -6.7      0.000      0.000
+ 1377_tri-O-galloyl_glucose
+   1         -6.9      0.000      0.000
+ 1378_tetra-O-galloyl_glucose
+   1         -7.1      0.000      0.000
+ 1379_penta-O-galloyl_glucose
+   1         -7.0      0.000      0.000
+ 137_(+)-7alpha,8beta-dihydroxydeepoxysarcophine
+   1         -5.9      0.000      0.000
+ 1380_tri-O-galloyl-shikimic_acid
+   1         -6.2      0.000      0.000
+ 1381_3'-O-methyl-4-O-(3'',4''-di-O-galloyl-alpha-L-rhamnopyranosyl)_ellagic_acid
+   1         -7.1      0.000      0.000
+ 1382_chebulic_acid
+   1         -5.2      0.000      0.000
+ 1383_chebulanin
+   1         -6.6      0.000      0.000
+ 1384_methyl_neochebulanin
+   1         -5.9      0.000      0.000
+ 1385_chebulagic_acid
+   1         -2.5      0.000      0.000
+ 1386_chebulinic_acid
+   1         -5.4      0.000      0.000
+ 1387_methyl_neochebulagate
+   1         -5.2      0.000      0.000
+ 1388_methyl_neochebulinate
+   1         -6.5      0.000      0.000
+ 1389_di-O-galloyl-2,4-chebuloyl_glucose
+   1         -5.3      0.000      0.000
+ 138_(1R,2E,4S,6E,8R,11R,12R)-2,6-cembradiene-4,8,11,12-tetrol
+   1         -5.0      0.000      0.000
+ 1390_tellimagrandin_I
+   1         -4.8      0.000      0.000
+ 1391_corilagin
+   1         -4.6      0.000      0.000
+ 1392_gallagic_acid
+   1         -5.8      0.000      0.000
+ 1393_punicalin
+   1         -3.5      0.000      0.000
+ 1394_punicalagin
+   1         32.8      0.000      0.000
+ 1395_terflavin_B
+   1         -5.5      0.000      0.000
+ 1396_4-O-(4''-O-galloyl-alpha-L-rhamnopyranosyl)_ellagic_acid
+   1         -7.1      0.000      0.000
+ 1397_4-O-(3'',4''-di-O-galloyl-alpha-L-rhamnopyranosyl)_ellagic_acid
+   1         -7.0      0.000      0.000
+ 1398_3'-O-methyl-4-O-(n''-O-galloyl-beta-D-xylopyranosyl)_ellagic_acid
+   1         -6.5      0.000      0.000
+ 1399_3,3'-di-O-methyl-4-O-(n''-O-galloyl-beta-D-xylopyranosyl)_ellagic_acid
+   1         -7.5      0.000      0.000
+ 139_sarcophine
+   1         -6.4      0.000      0.000
+ 13_acteoside
+   1         -6.6      0.000      0.000
+ 1400_ellagic_acid
+   1         -5.3      0.000      0.000
+ 1401_3,4,8,9,10-pentahydroxy_dibenzo[b,d]pyran-6-one
+   1         -5.6      0.000      0.000
+ 1402_(S)-flavogallonic_acid
+   1         -6.4      0.000      0.000
+ 1403_methyl_(S)-flavogallonate
+   1         -6.3      0.000      0.000
+ 1404_3,3'-di-O-methyl-4-O-(beta-D-xylopyranosyl)_ellagic_acid
+   1         -5.3      0.000      0.000
+ 1405_dimethyl_ellagic_acid
+   1         -5.3      0.000      0.000
+ 1406_methyl_ellagic_acid
+   1         -5.4      0.000      0.000
+ 1407_3'-O-methyl-4-O-(beta-D-xylopyranosyl)_ellagic_acid
+   1         -6.0      0.000      0.000
+ 1408_5-methyldihydroflavasperone
+   1         -5.9      0.000      0.000
+ 1409_2,3-dihydro-5,8,10-trimethoxy-2-methyl-4H-naphtho[1,2-b]pyran-4-one
+   1         -6.0      0.000      0.000
+ 140_(1S,2E,4R,6E,8S,11R,12S)-8,11-epoxy-4,12-epoxy-2,6-cembradiene
+   1         -5.7      0.000      0.000
+ 1410_arjunin
+   1          3.7      0.000      0.000
+ 1411_punicalin
+   1         -3.5      0.000      0.000
+ 1412_1,2,3,4,6-pentagalloyl_glucose
+   1         -6.6      0.000      0.000
+ 1413_2,3,4,6-tetragalloyl_glucose
+   1         -6.7      0.000      0.000
+ 1415_gallic_acid
+   1         -5.1      0.000      0.000
+ 1416_ellagic_acid
+   1         -5.3      0.000      0.000
+ 1417_isopropyl_isothiocyanate
+   1         -3.5      0.000      0.000
+ 1418_3-butenyl_isothiocyanate
+   1         -3.9      0.000      0.000
+ 1419_alpha-phellandrene
+   1         -5.2      0.000      0.000
+ 141_(1S,2E,4R,6E,8R,11S,12R)-8,12-epoxy-2,6-cembradiene-4,11-diol
+   1         -5.8      0.000      0.000
+ 1420_anethole
+   1         -5.1      0.000      0.000
+ 1421_beta-ionone
+   1         -5.9      0.000      0.000
+ 1422_palmitic_acid
+   1         -5.9      0.000      0.000
+ 1423_2-hydroxy-3-butenyl_isothiocyanate
+   1         -3.9      0.000      0.000
+ 1424_5-vinyl-2-oxazolidinethione
+   1         -4.3      0.000      0.000
+ 1425_goitrin
+   1         -4.3      0.000      0.000
+ 1426_methyl_4-isothiocyanatobutyrate
+   1         -4.3      0.000      0.000
+ 1427_erypestrin
+   1         -4.2      0.000      0.000
+ 1428_isopropyl_isothiocyanate
+   1         -3.5      0.000      0.000
+ 1429_butenyl_isothiocyanate
+   1         -3.9      0.000      0.000
+ 142_(+)-7alpha,8beta-dihydroxydeepoxysarcophine
+   1         -6.1      0.000      0.000
+ 1430_limonene
+   1         -4.9      0.000      0.000
+ 1431_2-phenyl_ethanol
+   1         -5.1      0.000      0.000
+ 1432_para-menth-4-en-3_one
+   1         -4.8      0.000      0.000
+ 1433_anethole
+   1         -5.1      0.000      0.000
+ 1434_benzyl_isothiocyanate
+   1         -5.3      0.000      0.000
+ 1435_beta-ionone
+   1         -5.9      0.000      0.000
+ 1436_palmitic_acid
+   1         -5.5      0.000      0.000
+ 1437_phytol
+   1         -6.6      0.000      0.000
+ 1438_chrysoeriol
+   1         -6.4      0.000      0.000
+ 1439_chrysoeriol-7-O-xylosoide-(1,2)-arabinofuranoside
+   1         -6.1      0.000      0.000
+ 143_sarcophytolide
+   1         -5.9      0.000      0.000
+ 1440_quercetin
+   1         -6.0      0.000      0.000
+ 1441_quercetin-7-O-rhamnoside
+   1         -6.7      0.000      0.000
+ 1442_kaempferol-3-O-beta-D-glucoside
+   1         -6.9      0.000      0.000
+ 1443_2-hydroxybut-3-enylglucosinolate
+   1         -4.4      0.000      0.000
+ 1444_3-indolylmethyl_glucosinolate
+   1         -5.9      0.000      0.000
+ 1445_1-methoxy-3-indolylmethyl_glucosinolate
+   1         -6.3      0.000      0.000
+ 1446_3-indolylethylene_oxide
+   1         -5.5      0.000      0.000
+ 1447_quercetin_3,4'-di-O-beta-D-glucopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -5.7      0.000      0.000
+ 1448_moricandin
+   1         -6.5      0.000      0.000
+ 1449_beta-D-glucopyranosyl_4-O-beta-D-glucopyranosylcaffeate
+   1         -6.0      0.000      0.000
+ 144_(1S,4R,13S)-cembra-2E,7E,11E-trien-4,13-diol
+   1         -6.2      0.000      0.000
+ 1450_methyl_3-O-beta-D-glucopyranosyl-5-hydroxycinnamate
+   1         -6.2      0.000      0.000
+ 1451_beta-D-glucopyranosyl_4-O-beta-D-glucopyranosylbenzoate
+   1         -5.5      0.000      0.000
+ 1452_beta-D-glucopyranosyl_4-hydroxybenzoate
+   1         -6.2      0.000      0.000
+ 1453_methyl_4-O-beta-D-glucopyranosylcaffeate
+   1         -6.8      0.000      0.000
+ 1454_1-O-caffeoyl-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 1455_2-phenylethyl-beta-D-glucopyranoside
+   1         -5.6      0.000      0.000
+ 1456_anastatin_A
+   1         -6.5      0.000      0.000
+ 1457_anastatin_B
+   1         -7.0      0.000      0.000
+ 1458_(+)-silychristin
+   1         -7.8      0.000      0.000
+ 1459_(-)-silychristin
+   1         -6.8      0.000      0.000
+ 145_2S,3R-4E,8E-2-(hexadecanoylamino)-docosa-4,8-diene-1,3-diol
+   1         -5.4      0.000      0.000
+ 1460_silybin_A
+   1         -7.0      0.000      0.000
+ 1461_silybin_B
+   1         -6.7      0.000      0.000
+ 1462_isosilybin_A
+   1         -6.0      0.000      0.000
+ 1463_isosilybin_B
+   1         -6.5      0.000      0.000
+ 1464_naringenin
+   1         -6.5      0.000      0.000
+ 1465_eriodictyol
+   1         -6.3      0.000      0.000
+ 1466_(+)-aromadendrin
+   1         -6.0      0.000      0.000
+ 1467_(+)-taxifolin
+   1         -6.2      0.000      0.000
+ 1468_(+)-3'-o-methyltaxifolin
+   1         -6.1      0.000      0.000
+ 1469_(+)-epitaxifolin
+   1         -6.5      0.000      0.000
+ 146_2S,3R-4E,8E-2-(octadecanoylamino)-octadeca-4,8-diene-1,3-diol
+   1         -6.1      0.000      0.000
+ 1470_luteolin
+   1         -6.2      0.000      0.000
+ 1471_kaempferol
+   1         -5.8      0.000      0.000
+ 1472_quercetin
+   1         -6.0      0.000      0.000
+ 1473_rutin
+   1         -7.7      0.000      0.000
+ 1474_hierochin_A
+   1         -7.0      0.000      0.000
+ 1475_(E)-3-((2S,3S)-2,3-dihydro-7-hydroxy-3-(hydroxymethyl)-2-(3,4-dimethoxyphenyl)benzofuran-5-yl)acrylaldehyde
+   1         -6.1      0.000      0.000
+ 1476_hierochin_C
+   1         -6.1      0.000      0.000
+ 1477_(+)-dehydrodiconiferyl_alcohol
+   1         -6.2      0.000      0.000
+ 1478_(+)-balanophonin
+   1         -6.1      0.000      0.000
+ 1479_hierochin_B
+   1         -5.9      0.000      0.000
+ 147_2S,3R-4E-2-(octadecanoylamino)-octadec-4-ene-1-ol
+   1         -5.6      0.000      0.000
+ 1480_(+)-lariciresinol
+   1         -7.0      0.000      0.000
+ 1481_(+)-1,2-bis-(4-hydroxy-3-methoxyphenyl)-propane-1,3-diol_[erythro_form]
+   1         -6.1      0.000      0.000
+ 1482_(+)-1,2-bis-(4-hydroxy-3-methoxyphenyl)-propane-1,3-diol_[threo_form]
+   1         -5.7      0.000      0.000
+ 1483_(-)-evofolin_B
+   1         -5.7      0.000      0.000
+ 1484_1-(4-hydroxy-3-methoxyphenyl)-2-{4-[(E)-3-hydroxy-1-propenyl]-_2-methoxyphenoxy}-1,3-propanediol
+   1         -5.5      0.000      0.000
+ 1485_1-(4-hydroxy-_3-methoxyphenyl)-2-{4-[2-formyl-(E)-vinyl]-2-methoxyphenoxy}-1,3-propanediol
+   1         -5.6      0.000      0.000
+ 1486_p-hydroxybenzoic_acid
+   1         -5.2      0.000      0.000
+ 1487_p-methoxybenzoic_acid
+   1         -5.4      0.000      0.000
+ 1488_3,4-dihydroxybenzoic_acid
+   1         -5.3      0.000      0.000
+ 1489_3-methoxy-4-hydroxybenzoic_acid
+   1         -5.4      0.000      0.000
+ 148_cholesterol
+   1         -6.6      0.000      0.000
+ 1490_p-hydroxybenzaldehyde
+   1         -4.6      0.000      0.000
+ 1491_3,4-dihydroxybenzaldehyde
+   1         -4.7      0.000      0.000
+ 1492_vanillin
+   1         -4.9      0.000      0.000
+ 1493_acetovanillone
+   1         -5.4      0.000      0.000
+ 1494_2,4'-dihydroxy-3'-methoxyacetophenone
+   1         -5.1      0.000      0.000
+ 1495_omega-hydroxypropioguaiacone
+   1         -5.3      0.000      0.000
+ 1496_(+)-2,3-dihydroxy-1-(4-hydroxy-3-methoxyphenyl)-1-propanone
+   1         -5.5      0.000      0.000
+ 1497_trans-cinnamic_acid
+   1         -5.4      0.000      0.000
+ 1498_trans-ferulic_acid
+   1         -5.9      0.000      0.000
+ 1499_coniferaldehyde
+   1         -5.8      0.000      0.000
+ 149_cholesterol-3beta-acetate
+   1         -6.4      0.000      0.000
+ 14_verbascoside
+   1         -7.0      0.000      0.000
+ 1500_hierochin_A
+   1         -6.3      0.000      0.000
+ 1501_hierochin_B
+   1         -6.1      0.000      0.000
+ 1502_hierochin_C
+   1         -6.5      0.000      0.000
+ 1503_anastatin_A
+   1         -6.5      0.000      0.000
+ 1504_anastatin_B
+   1         -6.8      0.000      0.000
+ 1505_naringenin
+   1         -6.5      0.000      0.000
+ 1506_eriodictyol
+   1         -6.3      0.000      0.000
+ 1507_aromadendrin
+   1         -6.0      0.000      0.000
+ 1508_(+)-taxifolin
+   1         -6.2      0.000      0.000
+ 1509_3'-O-methyltaxifolin
+   1         -6.1      0.000      0.000
+ 150_7beta-hydroxy_cholesterol
+   1         -6.4      0.000      0.000
+ 1510_(+)-epitaxifolin
+   1         -6.5      0.000      0.000
+ 1511_8alpha,9alpha-dihydroxy-4beta,15,11beta,13-tetrahydrodehydrozaluzanin
+   1         -5.5      0.000      0.000
+ 1512_aguerin-beta
+   1         -6.4      0.000      0.000
+ 1513_trachelogenin
+   1         -6.6      0.000      0.000
+ 1514_filifolide_A
+   1         -5.4      0.000      0.000
+ 1515_loliolide
+   1         -5.4      0.000      0.000
+ 1516_cynaropicrin
+   1         -6.0      0.000      0.000
+ 1517_desacylcynaropicrin
+   1         -5.6      0.000      0.000
+ 1518_1beta,9beta-diacetoxyeudesm-3-en-5alpha,6beta,11beta-H-12,6-olide
+   1         -5.5      0.000      0.000
+ 1519_1beta,9beta-diacetoxyeudesm-4-en-6beta,11beta-H-12,6-olide
+   1         -6.5      0.000      0.000
+ 151_cosanyl_octadecanoate
+   1         -5.0      0.000      0.000
+ 1520_1,9-dihydroxyeudesm-4-en-6,12-olide
+   1         -5.0      0.000      0.000
+ 1521_1,9-dihydroxygermacr-4-en-6,12-olide
+   1         -5.8      0.000      0.000
+ 1522_2,2,4-trimethyl-5-oxocyclohex-3-enecarboxylic_acid
+   1         -5.1      0.000      0.000
+ 1523_anhydroverlotorin
+   1         -6.1      0.000      0.000
+ 1524_pellitorine
+   1         -6.2      0.000      0.000
+ 1525_neopellitorine_A
+   1         -6.2      0.000      0.000
+ 1526_neopellitorine_B
+   1         -6.4      0.000      0.000
+ 1527_herniarine
+   1         -5.4      0.000      0.000
+ 1528_atraflavoside_A
+   1         -6.2      0.000      0.000
+ 1529_atraflavoside_B
+   1         -7.0      0.000      0.000
+ 152_hexadecanyl_octadecanoate
+   1         -4.9      0.000      0.000
+ 1530_narcissin
+   1         -7.0      0.000      0.000
+ 1531_schaftoside
+   1         -6.5      0.000      0.000
+ 1532_vicenin_3
+   1         -6.3      0.000      0.000
+ 1533_oleanolic_acid
+   1         -5.7      0.000      0.000
+ 1534_3beta,22beta-dihydroxyolean-12-en-28-oic_acid
+   1         -6.3      0.000      0.000
+ 1535_hederagenin
+   1         -4.5      0.000      0.000
+ 1536_beta-sitosteryl-beta-D-glucoside
+   1         -6.3      0.000      0.000
+ 1537_stigmasterol_3-O-beta-D-glucoside
+   1         -6.1      0.000      0.000
+ 1538_chrysin
+   1         -6.2      0.000      0.000
+ 1539_calycopterin
+   1         -5.0      0.000      0.000
+ 153_isorhamnetin_3-rhamnosyl-(16)-galactoside
+   1         -6.0      0.000      0.000
+ 1540_isorhamnetin_3-O-robinobioside
+   1         -6.3      0.000      0.000
+ 1541_quercetin
+   1         -6.0      0.000      0.000
+ 1542_alpha-thujone
+   1         -5.0      0.000      0.000
+ 1543_beta-thujone
+   1         -4.8      0.000      0.000
+ 1544_terpinen-4-ol
+   1         -5.1      0.000      0.000
+ 1545_perilladehyde
+   1         -5.5      0.000      0.000
+ 1546_undecan-2-one
+   1         -4.9      0.000      0.000
+ 1547_perillyl_alcohol
+   1         -5.1      0.000      0.000
+ 1548_alpha-copaene
+   1         -5.8      0.000      0.000
+ 1549_methyl_eugenol
+   1         -5.1      0.000      0.000
+ 154_kaempferol_3-galactoside
+   1         -5.9      0.000      0.000
+ 1550_3,4-dimethyl_cinnoline
+   1         -5.4      0.000      0.000
+ 1551_beta-caryophyllene
+   1         -5.2      0.000      0.000
+ 1552_germacrene-D
+   1         -5.3      0.000      0.000
+ 1553_nor_beta-calamenene
+   1         -6.2      0.000      0.000
+ 1554_caryophyllene_oxide
+   1         -5.4      0.000      0.000
+ 1555_2,2,3-trimethylnaphtalen-1(2H)-one
+   1         -5.8      0.000      0.000
+ 1556_beta-eudesmol
+   1         -5.7      0.000      0.000
+ 1557_phenylhydroquinone
+   1         -5.8      0.000      0.000
+ 1558_chamazulene
+   1         -6.0      0.000      0.000
+ 1559_3,3'-dimethyldiphenyl
+   1         -6.2      0.000      0.000
+ 155_kaempferol_3-rhamnogalactoside
+   1         -6.0      0.000      0.000
+ 1560_catalponol
+   1         -6.3      0.000      0.000
+ 1561_phtalate
+   1         -4.8      0.000      0.000
+ 1562_vulgarin
+   1         -5.8      0.000      0.000
+ 1563_peroxyvulgarin
+   1         -6.4      0.000      0.000
+ 1564_santolina_triene
+   1         -5.0      0.000      0.000
+ 1565_tricyclene
+   1         -4.9      0.000      0.000
+ 1566_alpha-thujene
+   1         -5.3      0.000      0.000
+ 1567_alpha-pinene
+   1         -5.3      0.000      0.000
+ 1568_camphene
+   1         -4.7      0.000      0.000
+ 1569_sabinene
+   1         -4.7      0.000      0.000
+ 156_quercetin_3-galactoside
+   1         -6.1      0.000      0.000
+ 1570_1-octen-3-ol
+   1         -4.7      0.000      0.000
+ 1571_beta-pinene
+   1         -5.0      0.000      0.000
+ 1572_1,2,4-trimethylbenzene
+   1         -4.8      0.000      0.000
+ 1573_1-decene
+   1         -4.7      0.000      0.000
+ 1574_alpha-phellandrene
+   1         -5.0      0.000      0.000
+ 1575_1,2,3-trimethylbenzene
+   1         -4.5      0.000      0.000
+ 1576_alpha-terpinene
+   1         -5.0      0.000      0.000
+ 1577_p-cymene
+   1         -5.3      0.000      0.000
+ 1578_1,8-cineole
+   1         -4.7      0.000      0.000
+ 1579_limonene
+   1         -4.9      0.000      0.000
+ 157_isorhamnetin_7-[p-coumaroylgalactoside]
+   1         -7.6      0.000      0.000
+ 1580_santolina_alcohol
+   1         -4.8      0.000      0.000
+ 1581_gamma-terpinene
+   1         -5.2      0.000      0.000
+ 1582_trans-sabinene_hydrate
+   1         -4.7      0.000      0.000
+ 1583_filifolene
+   1         -5.7      0.000      0.000
+ 1584_alpha-thujone
+   1         -5.0      0.000      0.000
+ 1585_beta-thujone
+   1         -4.8      0.000      0.000
+ 1586_chrysanthenone
+   1         -4.9      0.000      0.000
+ 1587_alpha-campholenal
+   1         -4.9      0.000      0.000
+ 1588_trans-p-2-menthen-1-ol
+   1         -5.1      0.000      0.000
+ 1589_camphor
+   1         -4.4      0.000      0.000
+ 158_isorhamnetin_3-galactoside
+   1         -6.1      0.000      0.000
+ 1590_trans-pinocarveol
+   1         -4.9      0.000      0.000
+ 1591_cis-verbenol
+   1         -5.2      0.000      0.000
+ 1592_trans-verbenol
+   1         -5.2      0.000      0.000
+ 1593_pinocarvone
+   1         -4.9      0.000      0.000
+ 1594_borneol
+   1         -4.3      0.000      0.000
+ 1595_terpinen-4-ol
+   1         -5.4      0.000      0.000
+ 1596_myrtenal
+   1         -4.8      0.000      0.000
+ 1597_myrtenol
+   1         -4.7      0.000      0.000
+ 1598_trans-carveol
+   1         -5.1      0.000      0.000
+ 1599_cis-carveol
+   1         -5.3      0.000      0.000
+ 159_(S)-4-methoxy-7-phenyl-7,8-dihydro[1,3]dioxolo[4,5-g]isochromen-5-one
+   1         -6.1      0.000      0.000
+ 15_(2R)-2-O-beta-D-glucopyranosyl-2H-1,4-benzoxazin-3(4H)-one
+   1         -5.7      0.000      0.000
+ 1600_carvone
+   1         -5.0      0.000      0.000
+ 1601_cis-ocimenone
+   1         -5.1      0.000      0.000
+ 1602_piperitone
+   1         -4.9      0.000      0.000
+ 1603_cis-chrysanthenyl_acetate
+   1         -5.3      0.000      0.000
+ 1604_bornyl_acetate
+   1         -4.7      0.000      0.000
+ 1605_carvacrol
+   1         -5.3      0.000      0.000
+ 1606_beta-copaene
+   1         -5.7      0.000      0.000
+ 1607_beta-ylangene
+   1         -5.6      0.000      0.000
+ 1608_allo-aromadendrene
+   1         -5.4      0.000      0.000
+ 1609_gamma-muurolene
+   1         -6.1      0.000      0.000
+ 160_kaempferol_3-O-beta-D-glucopyranoside
+   1         -6.3      0.000      0.000
+ 1610_bicyclogermacrene
+   1         -5.2      0.000      0.000
+ 1611_delta-cadinene
+   1         -5.8      0.000      0.000
+ 1612_spathulenol
+   1         -5.5      0.000      0.000
+ 1613_ledol
+   1         -5.5      0.000      0.000
+ 1614_desacetoxymatricarin
+   1         -5.4      0.000      0.000
+ 1615_anthepseudolide
+   1         -6.4      0.000      0.000
+ 1616_anthepseudolide-6-O-acetate
+   1         -6.1      0.000      0.000
+ 1617_antheindurolide_A
+   1         -6.6      0.000      0.000
+ 1618_antheindurolide_B
+   1         -6.3      0.000      0.000
+ 1619_(3R,5R)-3-methyl-5-(2-oxopropyl)oxolan-2-one
+   1         -5.1      0.000      0.000
+ 161_kaempferol_3-O-(6''-alpha-L-_rhamnopyranosyl)-beta-D-glucopyranoside-7-O-alpha-L-rhamnopyranoside
+   1         -6.0      0.000      0.000
+ 1620_(3R,5S)-3-methyl-5-(2-oxopropyl)oxolan-2-one
+   1         -5.3      0.000      0.000
+ 1621_1beta,9beta-diacetoxyeudesm-3-en-5alpha,6beta,11betaH-12,6-olide
+   1         -6.4      0.000      0.000
+ 1622_1beta,9beta-diacetoxyeudesm-4-en-6beta,11betaH-12,6-olide
+   1         -5.2      0.000      0.000
+ 1623_quercetin_3-glucoside
+   1         -6.1      0.000      0.000
+ 1624_quercetin_3-rutinoside
+   1         -6.4      0.000      0.000
+ 1625_quercetin_5-glucoside
+   1         -6.4      0.000      0.000
+ 1626_isorhamnetin_5-glucoside
+   1         -6.2      0.000      0.000
+ 1627_patuletin_3-glucoside
+   1         -5.8      0.000      0.000
+ 1628_patuletin_3-rutinoside
+   1         -6.4      0.000      0.000
+ 1629_acacetin_7-glucoside
+   1         -7.3      0.000      0.000
+ 162_quercetin
+   1         -6.0      0.000      0.000
+ 1630_acacetin_7-rutinoside
+   1         -7.5      0.000      0.000
+ 1631_vicenin-2
+   1         -5.5      0.000      0.000
+ 1632_lucenin-2
+   1         -6.4      0.000      0.000
+ 1633_quercetin_3-glucoside
+   1         -6.0      0.000      0.000
+ 1634_quercetin_3-rutinoside
+   1         -6.3      0.000      0.000
+ 1635_patuletin_3-glucoside
+   1         -6.1      0.000      0.000
+ 1636_patuletin_3-rutinoside
+   1         -6.5      0.000      0.000
+ 1637_isovitexin
+   1         -6.0      0.000      0.000
+ 1638_vicenin-2
+   1         -5.0      0.000      0.000
+ 1639_schaftoside
+   1         -5.3      0.000      0.000
+ 163_quercetin_3-O-beta-D-glucopyranoside
+   1         -6.0      0.000      0.000
+ 1640_isoschaftoside
+   1         -5.7      0.000      0.000
+ 1641_luteolin_7-glucoside
+   1         -6.5      0.000      0.000
+ 1642_arborescin
+   1         -5.4      0.000      0.000
+ 1643_10beta-ethoxy-1alpha-hydroxyguaia-3-en-6alpha,12-olide
+   1         -4.9      0.000      0.000
+ 1644_argentiolide_B
+   1         -5.6      0.000      0.000
+ 1645_1alpha,10beta-dihydroxyguaia-3-en-6alpha,12-olide
+   1         -6.5      0.000      0.000
+ 1646_deacetylargentiolide_B
+   1         -5.7      0.000      0.000
+ 1647_4alpha,10beta-dihydroxy-2-oxo-guaia-1(5)-en-6alpha,12-olide
+   1         -5.5      0.000      0.000
+ 1648_artemetin
+   1         -5.6      0.000      0.000
+ 1649_sesamin
+   1         -6.7      0.000      0.000
+ 164_quercetin_3-O-(6''-alpha-L-rhamnopyranosyl)-beta-D-glucopyranoside
+   1         -5.9      0.000      0.000
+ 1650_lirioresinol-C-dimethyl_ether
+   1         -5.6      0.000      0.000
+ 1651_alpha-pinene
+   1         -4.9      0.000      0.000
+ 1652_camphene
+   1         -4.7      0.000      0.000
+ 1653_1-cyclohexene-1-methanol
+   1         -4.7      0.000      0.000
+ 1654_p-cymene
+   1         -5.3      0.000      0.000
+ 1655_1,8-cineol
+   1         -4.7      0.000      0.000
+ 1656_trans-sabinene_hydrate
+   1         -4.9      0.000      0.000
+ 1657_alpha-thujone
+   1         -5.0      0.000      0.000
+ 1658_beta-thujone
+   1         -4.8      0.000      0.000
+ 1659_safranal
+   1         -5.0      0.000      0.000
+ 165_rutin
+   1         -6.4      0.000      0.000
+ 1660_trans-pinocarveol
+   1         -4.9      0.000      0.000
+ 1661_camphor
+   1         -4.4      0.000      0.000
+ 1662_pinocamphone_isomer
+   1         -4.9      0.000      0.000
+ 1663_pinocarvone
+   1         -4.9      0.000      0.000
+ 1664_borneol
+   1         -4.3      0.000      0.000
+ 1665_beta-cadinene
+   1         -5.9      0.000      0.000
+ 1666_germacrene_D_isomer
+   1         -5.3      0.000      0.000
+ 1667_valencene
+   1         -6.3      0.000      0.000
+ 1668_4beta-hydroxygermacra-1(10),5-diene
+   1         -5.8      0.000      0.000
+ 1669_N-tridecanol
+   1         -5.3      0.000      0.000
+ 166_quercetin_3-O-(6''-alpha-L-rhamnopyranosyl)-beta-D-glucopyranoside-7-O-alpha-L-_rhamnopyranoside
+   1         -6.0      0.000      0.000
+ 1670_3-oxo-1alpha,5alphaH-guaia-10(14)-en-6alpha,12-olide
+   1         -5.8      0.000      0.000
+ 1671_3alpha-chloro-4beta,10beta-dihydroxy-1beta,2beta-epoxy-5alpha,7alphaH-guaia-11(13)-en-12,6alpha-olide
+   1         -5.8      0.000      0.000
+ 1672_matricarin
+   1         -6.5      0.000      0.000
+ 1673_5-hydroxy-5,6-secocaryophyllen-6-one
+   1         -5.8      0.000      0.000
+ 1674_herbolide_A
+   1         -5.4      0.000      0.000
+ 1675_deacetylherbolide_A
+   1         -5.9      0.000      0.000
+ 1676_herbolide_B
+   1         -5.5      0.000      0.000
+ 1677_deacetylherbolide_D
+   1         -5.6      0.000      0.000
+ 1678_herbolide_D
+   1         -5.3      0.000      0.000
+ 1679_1beta-hydroperoxy-9beta-acetoxygermacra-4,10(14)-dien-6beta,11betaH-12,6-olide
+   1         -5.5      0.000      0.000
+ 167_apigenin
+   1         -6.3      0.000      0.000
+ 1680_1-oxo-9beta-hydroxygermacra-4,10(14)-dien-6beta,11betaH-12,6-olide
+   1         -6.3      0.000      0.000
+ 1681_1-oxo-9beta-acetoxygermacra-4,10(14)-dien-6beta,11betaH-12,6-olide
+   1         -4.9      0.000      0.000
+ 1682_1beta,9beta-dihydroxyeudesm-3-en-5alpha,6beta,11betaH-12,6-olide
+   1         -6.0      0.000      0.000
+ 1683_1beta,9beta-dihydroxyeudesm-4(15)-en-5alpha,6beta,11betaH-12,6-olide
+   1         -6.0      0.000      0.000
+ 1684_(2R,3S,6R)-2,6-dimethyl-3,6-epoxyoct-7-enoic_acid
+   1         -4.9      0.000      0.000
+ 1685_(3R,4S,7R)-3,7-dimethyl-4,7-epoxynon-8-enoic_acid
+   1         -5.1      0.000      0.000
+ 1686_3,6-dihydro-3-((R)-1-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)ethyl)-6,6-dimethyl-1,2-dioxin-3-ol
+   1         -5.8      0.000      0.000
+ 1687_(S,E)-2-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)-6-hydroxy-6-methylhept-4-en-3-one
+   1         -6.1      0.000      0.000
+ 1688_(S,E)-2-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)-6-hydroperoxy-6-methylhept-4-en-3-one
+   1         -5.7      0.000      0.000
+ 1689_(2S)-2-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)-5-hydroxy-6-methylhept-6-en-3-one
+   1         -5.4      0.000      0.000
+ 168_apigenin_7-O-alpha-L-rhamnopyranoside
+   1         -7.1      0.000      0.000
+ 1690_balchanolide
+   1         -6.1      0.000      0.000
+ 1691_8alpha-acetoxytaurin
+   1         -6.7      0.000      0.000
+ 1692_11beta,13-dihydroanhydroverlotorin
+   1         -6.3      0.000      0.000
+ 1693_shonachalin_A
+   1         -5.1      0.000      0.000
+ 1694_spathulenol
+   1         -5.5      0.000      0.000
+ 1695_herniarin
+   1         -5.3      0.000      0.000
+ 1696_p-hydroxyacetophenone
+   1         -5.4      0.000      0.000
+ 1697_1alpha,6alpha,8alpha-trihydroxy-5alpha,7betaH-guaia-3,10(14),11(13)-trien-12-oic_acid
+   1         -5.8      0.000      0.000
+ 1698_1alpha,6alpha,8alpha-trihydroxy-5alpha,7betaH-guaia-3,9,11(13)-trien-12-oic_acid
+   1         -5.2      0.000      0.000
+ 1699_ligustolide-A
+   1         -5.5      0.000      0.000
+ 169_luteolin
+   1         -6.2      0.000      0.000
+ 16_syringin
+   1         -5.0      0.000      0.000
+ 1700_arteludovicinolide-A
+   1         -6.1      0.000      0.000
+ 1701_austricin
+   1         -5.7      0.000      0.000
+ 1702_3-oxo-guaia-1alpha,5alphaH-7(11)-en-6beta,12-olide
+   1         -6.2      0.000      0.000
+ 1703_13-hydroxy-3-oxo-guaia-1alpha,5alphaH-7(11)-en-6beta,12-olide
+   1         -6.0      0.000      0.000
+ 1704_3,4-dioxo-guaia-1alpha,5alphaH-11(13)-en-6beta,12-olide
+   1         -5.8      0.000      0.000
+ 1705_11beta,13-dihydroxy-4-oxo-guaia-1alpha,5alphaH-6beta,12-olide
+   1         -5.4      0.000      0.000
+ 1706_parthenin
+   1         -6.2      0.000      0.000
+ 1707_neoambrosin
+   1         -6.2      0.000      0.000
+ 1708_leucodin
+   1         -5.4      0.000      0.000
+ 1709_matricarin
+   1         -6.5      0.000      0.000
+ 170_luteolin_7-O-alpha-L-rhamnopyranoside
+   1         -6.9      0.000      0.000
+ 1710_5-hydroxyleucodin
+   1         -6.1      0.000      0.000
+ 1711_3,9-diacetoxy-13-hydroxy-1(10),4,7(11)-germacra-trien-12,6-olide
+   1         -5.5      0.000      0.000
+ 1712_eupatilin_7-methyl_ether
+   1         -6.4      0.000      0.000
+ 1713_eupatolin
+   1         -6.4      0.000      0.000
+ 1714_cirsimartin
+   1         -6.1      0.000      0.000
+ 1715_4,2'-dihydroxy-4'-methoxychalcone
+   1         -7.2      0.000      0.000
+ 1716_2',5'-dihydroxy-4-methoxychalcone
+   1         -7.3      0.000      0.000
+ 1717_5,7-dihydroxy-3,4'-dimethoxyflavone
+   1         -5.5      0.000      0.000
+ 1718_3,3',4'-_trimethoxyquercetin
+   1         -5.6      0.000      0.000
+ 1719_isorhamnetin
+   1         -6.3      0.000      0.000
+ 171_4-hydroxy-2',4_'-dimethoxy-dihydrochalcone
+   1         -6.8      0.000      0.000
+ 1720_isoliquiritigenin
+   1         -7.1      0.000      0.000
+ 1721_(+)-(S,R)-epoxyartemidin
+   1         -6.4      0.000      0.000
+ 1722_E-artemedin
+   1         -6.3      0.000      0.000
+ 1723_artemidinal
+   1         -5.3      0.000      0.000
+ 1724_deacetoxymatricarin
+   1         -5.4      0.000      0.000
+ 1725_14-hydroxy-2-oxoguaia-1(10),3-dien-5alpha,11betaH-12,6alpha-olide
+   1         -5.4      0.000      0.000
+ 1726_achillin
+   1         -5.7      0.000      0.000
+ 1727_14-hydroxy-2-oxoguaia-1(10),3-dien-5alpha,11alphaH-12,6alpha-olide
+   1         -6.4      0.000      0.000
+ 1728_2,14-dioxoguaia-3-en-1alpha,5alpha,10beta,11betaH-12,6alpha-olide
+   1         -5.8      0.000      0.000
+ 1729_2,14-dioxoguaia-3-en-1alpha,5alpha,10alpha,11betaH-12,6alpha-olide
+   1         -5.9      0.000      0.000
+ 172_2(S),3',4'-dihydroxy-7-methoxyflavan
+   1         -6.9      0.000      0.000
+ 1730_13-hydroxy-3-oxogermacra-1(10),7(12)-6alpha,12-olide
+   1         -5.6      0.000      0.000
+ 1731_yomogin
+   1         -6.1      0.000      0.000
+ 1732_(3aR,9aR)-3a,4,9,9a-tetrahydro-5,8-dimethyl-3-methylenenaphtho[2,3-b]furan-2(3H)-one
+   1         -6.5      0.000      0.000
+ 1733_(1R,5R,9R)-9-(1-hydroxyprop-2-en-2-yl)-2,6-dimethylenecyclodecane-1,5-diol
+   1         -5.7      0.000      0.000
+ 1734_repthienynol
+   1         -6.0      0.000      0.000
+ 1735_(2E,5R,8S)-2-(penta-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.5]dec-3-en-8-yl_acetate
+   1         -5.4      0.000      0.000
+ 1736_(2E)-2-[(thiophen-2-yl)methylidene]-1,6-dioxaspiro[4.5]dec-3-ene
+   1         -5.7      0.000      0.000
+ 1737_(6S,7S,10R)-7,10-epoxy-3-hydroxy-2,6,10-trimethyl-_dodeca-1,3,11-trien-5-one
+   1         -5.9      0.000      0.000
+ 1738_3,6-dihydro-3-((S)-1-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)ethyl)-6,6-dimethyl-1,2-dioxin-3-ol
+   1         -6.0      0.000      0.000
+ 1739_(S,E)-2-((2S,5R)-tetrahydro-5-methyl-5-vinylfuran-2-yl)-6-hydroxy-6-methylhept-4-en-3-one
+   1         -5.8      0.000      0.000
+ 173_isolarrien
+   1         -5.9      0.000      0.000
+ 1740_spathulenol
+   1         -5.5      0.000      0.000
+ 1741_coumarin
+   1         -5.8      0.000      0.000
+ 1742_scoparon
+   1         -5.5      0.000      0.000
+ 1743_isofraxidin
+   1         -5.2      0.000      0.000
+ 1744_chrysosplenol_D
+   1         -5.8      0.000      0.000
+ 1745_syringaresinol
+   1         -5.4      0.000      0.000
+ 1746_hispidulin
+   1         -6.3      0.000      0.000
+ 1747_nepetin
+   1         -6.0      0.000      0.000
+ 1748_jaceosidin
+   1         -6.3      0.000      0.000
+ 1749_spinacetin
+   1         -6.2      0.000      0.000
+ 174_4,5-methylenedioxy-4'-hydroxy-2-aldehyde[1,1'-biphenyl]
+   1         -6.0      0.000      0.000
+ 1750_spinacetin_7-glucoside
+   1         -5.7      0.000      0.000
+ 1751_patuletin_7-diglucoside
+   1         -5.8      0.000      0.000
+ 1752_spinacetin_3-diglucoside
+   1         -5.5      0.000      0.000
+ 1753_kaempferol_6-methyl_ether_3-glucoside
+   1         -5.9      0.000      0.000
+ 1754_quercetin_3-glucoside
+   1         -6.0      0.000      0.000
+ 1755_patuletin_3-diglucoside
+   1         -5.8      0.000      0.000
+ 1756_isorhamnetin_3-diglucoside
+   1         -5.9      0.000      0.000
+ 1757_quercetin_3-rhamnoglucoside
+   1         -6.6      0.000      0.000
+ 1758_quercetin_3-diglucoside_7-glucoside
+   1         -5.8      0.000      0.000
+ 1759_3-methyl-3-phenyl-1,4-pentadiyne
+   1         -5.6      0.000      0.000
+ 175_isoliquiritigenin
+   1         -7.0      0.000      0.000
+ 1760_methyl-9-oxo-1(10)E,7E-alpha-humulene-15-oate
+   1         -6.3      0.000      0.000
+ 1761_methyl-9-oxo-1(10)E,7Z-alpha-humulene-15-oate
+   1         -5.7      0.000      0.000
+ 1762_methyl-9-oxo-1(10)Z,7Z-alpha-humulene-15-oate
+   1         -6.2      0.000      0.000
+ 1763_methyl-9-oxo-1(10)Z,7E-alpha-humulene-15-oate
+   1         -5.2      0.000      0.000
+ 1764_methyl-6-acetoxy-9-oxo-1(10)E,7E-alpha-humulene-15-oate
+   1         -5.3      0.000      0.000
+ 1765_methyl-6-acetoxy-9-oxo-1(10)E,7Z-alpha-humulene-15-oate
+   1         -5.5      0.000      0.000
+ 1766_methyl-6-acetoxy-9-oxo-1(10)Z,7E-alpha-humulene-15-oate
+   1         -6.3      0.000      0.000
+ 1767_methyl-6-acetoxy-9-oxo-1(10)Z,7Z-alpha-humulene-15-oate
+   1         -6.0      0.000      0.000
+ 1768_methyl-6-acetoxy-9-oxo-1(10)Z,4E,7Z-alpha-humulene-15-oate
+   1         -5.7      0.000      0.000
+ 1769_methyl-6-acetoxy-9-oxo-1(10)E,4E,7Z-alpha-humulene-15-oate
+   1         -5.4      0.000      0.000
+ 176_hippacine
+   1         -6.3      0.000      0.000
+ 1770_methyl-6-acetoxy-9-hydroxy-1(10)E,7Z-alpha-humulene-15-oate
+   1         -5.8      0.000      0.000
+ 1771_asteriscunolide_A
+   1         -6.2      0.000      0.000
+ 1772_asteriscunolide_B
+   1         -6.1      0.000      0.000
+ 1773_asteriscunolide_C
+   1         -6.3      0.000      0.000
+ 1774_asteriscunolide_D
+   1         -5.4      0.000      0.000
+ 1775_1,10,7,8-tetradehydro-asteriscanolide
+   1         -5.8      0.000      0.000
+ 1776_methyl-3alpha,5alpha,8alpha,8alpha,10alphaH-asteriscan-15-oate
+   1         -6.2      0.000      0.000
+ 1777_bisabol-2-en-1-one
+   1         -6.2      0.000      0.000
+ 1778_6-hydroxybisabol-2-en-1-one
+   1         -5.8      0.000      0.000
+ 1779_coniferyl-diisovalerate
+   1         -6.9      0.000      0.000
+ 177_4'-hydroxy-7-methoxy-flavan-3-ol
+   1         -6.6      0.000      0.000
+ 1780_7-methyl-6-methoxytricin
+   1         -6.2      0.000      0.000
+ 1781_apigenin
+   1         -6.0      0.000      0.000
+ 1782_chrysoeriol
+   1         -6.4      0.000      0.000
+ 1783_cirsimaritin
+   1         -6.1      0.000      0.000
+ 1784_tricin
+   1         -6.1      0.000      0.000
+ 1785_5-hydroxy-6,7,3',4'-tetramethoxyflavone
+   1         -6.3      0.000      0.000
+ 1786_6-methoxytricin
+   1         -5.9      0.000      0.000
+ 1787_artesin
+   1         -5.7      0.000      0.000
+ 1788_alpha-santonin
+   1         -7.0      0.000      0.000
+ 1789_taurin
+   1         -6.6      0.000      0.000
+ 178_liquiritigenin
+   1         -6.5      0.000      0.000
+ 1790_8alpha-acetoxytaurin
+   1         -5.9      0.000      0.000
+ 1791_1alpha-hydoxyeudesm-4(15)-en-5alpha,6beta,11betaH-12,6-olide
+   1         -5.5      0.000      0.000
+ 1792_1alpha-acetoxyeudesm-4(15)-en-5alpha,6beta,11betaH-12,6-olide
+   1         -5.9      0.000      0.000
+ 1793_1alpha-acetoxyeudesm-4-en-6beta,11betaH-12,6-olide
+   1         -6.1      0.000      0.000
+ 1794_1beta,5beta-dihydroxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.3      0.000      0.000
+ 1795_1alpha,5beta-dihydroxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.7      0.000      0.000
+ 1796_1alpha-acetoxy-5alpha-hydroxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.4      0.000      0.000
+ 1797_1alpha-acetoxy-5beta-hydroxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.3      0.000      0.000
+ 1798_1alpha,5beta-dihydroxyeudesm-3-en-6beta,11betaH-12,6-olide
+   1         -5.4      0.000      0.000
+ 1799_1alpha-acetoxy-5beta-hydroxyeudesm-3-en-6beta,11betaH-12,6-olide
+   1         -5.6      0.000      0.000
+ 179_norsanguinine
+   1         -5.7      0.000      0.000
+ 17_roseoside
+   1         -5.1      0.000      0.000
+ 1800_1alpha-acetoxy-3beta-hydroxyeudesm-3-en-6beta,11betaH-12,6-olide
+   1         -6.0      0.000      0.000
+ 1801_1alpha,3beta-diacetoxyeudesm-4-en-6beta,11betaH-12,6-olide
+   1         -6.3      0.000      0.000
+ 1802_1alpha-acetoxy-5beta,8alpha-dihydroxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.5      0.000      0.000
+ 1803_(E)-1,10-secoeudesma-3,5(10)-dien-6beta,11betaH-12,6-olide-1-oic_acid
+   1         -7.6      0.000      0.000
+ 1804_(1R,2S,5S,6S,9S,10R)-5,9,10-trimethyl-3-oxatetracyclo[7.4.0.01,10.02,6]tridec-12-ene-4,11-dione
+   1         -6.9      0.000      0.000
+ 1805_4-[(3S,3aS,6R,6aS)-3,6-dimethyl-2-oxo-hexahydro-2H-cyclopenta[b]furan-6-carbonyl]pent-4-enoic_acid
+   1         -6.2      0.000      0.000
+ 1806_8beta-hydroxy-1-oxo-eudesm-4-en-6alpha,7beta,11betaH-12,6-olide
+   1         -6.6      0.000      0.000
+ 1808_artemin
+   1         -5.3      0.000      0.000
+ 1809_8alpha-hydroxytaurin
+   1         -6.3      0.000      0.000
+ 180_norbutsanguinine
+   1         -6.2      0.000      0.000
+ 1810_maritimin
+   1         -5.3      0.000      0.000
+ 1811_artemisin
+   1         -6.8      0.000      0.000
+ 1812_brevifolin
+   1         -4.7      0.000      0.000
+ 1813_scopoletin
+   1         -5.9      0.000      0.000
+ 1814_artemin
+   1         -5.3      0.000      0.000
+ 1815_alpha-santonin
+   1         -7.0      0.000      0.000
+ 1816_1alpha-hydroxyeudesm-4-en-6beta,11betaH-12,6-olide
+   1         -6.1      0.000      0.000
+ 1817_1alpha,4alpha,5alpha-trihydoxyeudesm-6beta,11betaH-12,6-olide
+   1         -5.3      0.000      0.000
+ 1818_1alpha,5alpha-dihydoxyeudesm-4(15)-en-6beta,11betaH-12,6-olide
+   1         -5.4      0.000      0.000
+ 1819_1alpha,5beta-dihydroxyeudesm-4(15)-en-6beta,11betaH-12,6-oIide
+   1         -5.4      0.000      0.000
+ 181_sanguinine
+   1         -5.7      0.000      0.000
+ 1820_1alpha,5alpha-dihydroxyeudesm-3-en-6beta,11betaH-12,6-olide
+   1         -5.8      0.000      0.000
+ 1821_1alpha,5beta-dihydroxyeudesm-3-en-6beta,11betaH-12,6-olide
+   1         -5.8      0.000      0.000
+ 1822_(1R,2S,5S,6S,9S,10R)-5,9,10-trimethyl-3-oxatetracyclo[7.4.0.01,10.02,6]tridec-12-ene-4,11-dione
+   1         -7.5      0.000      0.000
+ 1823_isofraxidin
+   1         -6.3      0.000      0.000
+ 1824_vulgarin
+   1         -5.8      0.000      0.000
+ 1825_1-epi-erivanin
+   1         -6.0      0.000      0.000
+ 1826_1-epi-isoerivanin
+   1         -6.4      0.000      0.000
+ 1827_13-O-desacetyl_eudesma-afraglaucolide
+   1         -5.8      0.000      0.000
+ 1828_13-O-desacetyl-1alpha-hydroxy-afraglaucolide
+   1         -4.7      0.000      0.000
+ 1829_13-O-desacetyl-1beta-hydroxy-afraglaucolide
+   1         -5.1      0.000      0.000
+ 182_lycorine
+   1         -6.2      0.000      0.000
+ 1830_13-O-desacetyl-1beta-hydroxy-isoafraglaucolide
+   1         -6.2      0.000      0.000
+ 1831_seco-isoerivanin_pseudo_acid
+   1         -7.0      0.000      0.000
+ 1832_algerianolide
+   1         -5.5      0.000      0.000
+ 1833_(E)-ethyl-3,7-dimethyl-3,6-octadienoate
+   1         -5.3      0.000      0.000
+ 1834_borneol
+   1         -4.3      0.000      0.000
+ 1835_2-oxoisodauc-5-en-12-al
+   1         -5.8      0.000      0.000
+ 1836_1-tricontanol
+   1         -5.4      0.000      0.000
+ 1837_beta-sitosterol
+   1         -6.2      0.000      0.000
+ 1838_filifolide_A
+   1         -5.4      0.000      0.000
+ 1839_santin
+   1         -5.5      0.000      0.000
+ 183_pseudolycorine
+   1         -7.2      0.000      0.000
+ 1840_tamarixetin-3-O-beta-robinoside
+   1         -7.6      0.000      0.000
+ 1841_kaempferol_3-O-beta-D-glucoside
+   1         -6.2      0.000      0.000
+ 1842_kaempferol_3-O-beta-galactoside
+   1         -5.9      0.000      0.000
+ 1843_kaempferol_7-O-beta-D-glucoside
+   1         -6.5      0.000      0.000
+ 1844_quercetin_3-O-beta-D-glucoside
+   1         -5.9      0.000      0.000
+ 1845_quercetin_3-O-beta-galactoside
+   1         -5.5      0.000      0.000
+ 1846_quercetin_7-O-beta-D-glucoside
+   1         -6.3      0.000      0.000
+ 1847_luteolin_7-O-beta-D-glucoside
+   1         -6.6      0.000      0.000
+ 1848_quercetin
+   1         -6.0      0.000      0.000
+ 1849_quercetin_3,4'-dimethyl_ether
+   1         -6.0      0.000      0.000
+ 184_galanthamine
+   1         -5.6      0.000      0.000
+ 1850_quercetagetin_3,6,3'-trimethyl_ether
+   1         -5.5      0.000      0.000
+ 1851_apigenin_7-glucoside
+   1         -6.9      0.000      0.000
+ 1852_apigenin_7-glucuronide
+   1         -7.2      0.000      0.000
+ 1853_apigenin_4'-glucoside
+   1         -6.1      0.000      0.000
+ 1854_apigenin_7-gentiobioside
+   1         -7.2      0.000      0.000
+ 1855_apigenin_7-diglucuronide
+   1         -6.4      0.000      0.000
+ 1856_apigenin_7-rutinoside
+   1         -7.1      0.000      0.000
+ 1857_chrysoeriol_7-glucoside
+   1         -6.6      0.000      0.000
+ 1858_chrysoeriol_7-glucuronide
+   1         -6.5      0.000      0.000
+ 1859_chrysoeriol_4'-glucoside
+   1         -6.2      0.000      0.000
+ 185_galanthine
+   1         -5.8      0.000      0.000
+ 1860_chrysoeriol_7-gentiobioside
+   1         -6.6      0.000      0.000
+ 1861_chrysoeriol_7-diglucuronide
+   1         -6.1      0.000      0.000
+ 1862_chrysoeriol_7-rutinoside
+   1         -5.6      0.000      0.000
+ 1863_chrysoeriol_7,3'-diglucoside
+   1         -5.7      0.000      0.000
+ 1864_luteolin_3'-glucoside
+   1         -6.6      0.000      0.000
+ 1865_luteolin_4'-glucoside
+   1         -6.6      0.000      0.000
+ 1866_luteolin_7-gentiobioside
+   1         -7.4      0.000      0.000
+ 1867_luteolin_7,3'-diglucoside
+   1         -6.3      0.000      0.000
+ 1868_vicenin-2
+   1         -6.9      0.000      0.000
+ 1869_schaftoside
+   1         -6.5      0.000      0.000
+ 186_lycorine
+   1         -6.2      0.000      0.000
+ 1870_isoschaftoside
+   1         -5.7      0.000      0.000
+ 1871_neoschaftoside
+   1         -5.4      0.000      0.000
+ 1872_neoisoschaftoside
+   1         -6.2      0.000      0.000
+ 1873_casticin
+   1         -5.7      0.000      0.000
+ 1874_apigenin
+   1         -6.3      0.000      0.000
+ 1875_acacetin
+   1         -6.6      0.000      0.000
+ 1876_hispidulin
+   1         -6.3      0.000      0.000
+ 1877_pectolinarigenin
+   1         -6.2      0.000      0.000
+ 1878_cirsimaritin
+   1         -6.1      0.000      0.000
+ 1879_luteolin
+   1         -6.2      0.000      0.000
+ 187_buphanisine
+   1         -6.1      0.000      0.000
+ 1880_chrysoeriol
+   1         -6.4      0.000      0.000
+ 1881_eupatilin
+   1         -6.2      0.000      0.000
+ 1882_cirsilineol
+   1         -6.1      0.000      0.000
+ 1883_quercetin_3-glucoside
+   1         -5.9      0.000      0.000
+ 1884_quercetin_3-rutinoside
+   1         -7.0      0.000      0.000
+ 1885_quercetin_5-glucoside
+   1         -5.8      0.000      0.000
+ 1886_isorhamnetin_5-glucoside
+   1         -6.4      0.000      0.000
+ 1887_patuletin_3-glucoside
+   1         -5.7      0.000      0.000
+ 1888_patuletin_3-rutinoside
+   1         -6.4      0.000      0.000
+ 1889_acacetin_7-glucoside
+   1         -6.2      0.000      0.000
+ 188_augustine
+   1         -6.3      0.000      0.000
+ 1890_acacetin_7-rutinoside
+   1         -7.5      0.000      0.000
+ 1891_vicenin-2
+   1         -5.1      0.000      0.000
+ 1892_lucenin-2
+   1         -5.2      0.000      0.000
+ 1893_apigenin
+   1         -6.3      0.000      0.000
+ 1894_acacetin
+   1         -6.5      0.000      0.000
+ 1895_hispidulin
+   1         -6.3      0.000      0.000
+ 1896_cirsimaritin
+   1         -6.2      0.000      0.000
+ 1897_luteolin
+   1         -6.2      0.000      0.000
+ 1898_jaceosidin
+   1         -6.3      0.000      0.000
+ 1899_cirsilineol
+   1         -6.2      0.000      0.000
+ 189_5,7-dihydroxy-6-methoxy-2,8-dimethylchromone
+   1         -4.7      0.000      0.000
+ 18_(+)-lyoniresinol_3alpha-O-beta-D-glucopyranoside
+   1         -4.4      0.000      0.000
+ 1900_quercetin_3-glucoside
+   1         -6.0      0.000      0.000
+ 1901_quercetin_3-rutinoside
+   1         -6.2      0.000      0.000
+ 1902_patuletin_3-glucoside
+   1         -5.7      0.000      0.000
+ 1903_patuletin_3-rutinoside
+   1         -6.4      0.000      0.000
+ 1904_vicenin-2
+   1         -5.2      0.000      0.000
+ 1905_lucenin-2
+   1         -6.9      0.000      0.000
+ 1906_schaftoside
+   1         -6.7      0.000      0.000
+ 1907_isoschaftoside
+   1         -5.8      0.000      0.000
+ 1908_apigenin
+   1         -6.3      0.000      0.000
+ 1909_acacetin
+   1         -6.5      0.000      0.000
+ 190_5,7-dihydroxy-2-methylchromone
+   1         -5.5      0.000      0.000
+ 1910_hispidulin
+   1         -6.3      0.000      0.000
+ 1911_cirsimaritin
+   1         -6.2      0.000      0.000
+ 1912_luteolin
+   1         -6.2      0.000      0.000
+ 1913_jaceosidin
+   1         -6.3      0.000      0.000
+ 1914_cirsilineol
+   1         -6.1      0.000      0.000
+ 1915_5,4,3'-trihydroxy-6,4',5'-trimethoxyflavone
+   1         -6.2      0.000      0.000
+ 1916_6-oxo-8-hydroxy-santolina-1,4-diene
+   1         -4.6      0.000      0.000
+ 1917_4,5,8-trihydroxy-santolin-1-ene
+   1         -4.2      0.000      0.000
+ 1918_5,8-epoxy-4,6-dihydroxy-santolin-1-ene
+   1         -4.7      0.000      0.000
+ 1919_2-((1R,2R)-2-acetyl-1-isopropylcyclopropyl)acetic_acid
+   1         -5.0      0.000      0.000
+ 191_5-hydroxy-7-methoxy-2-methylchromone
+   1         -5.4      0.000      0.000
+ 1920_3-oxo-eudesma-4,11(13)-dien-12-oic_acid
+   1         -6.6      0.000      0.000
+ 1921_1beta,6alpha-dihydroxy-eudesm-4(15)-ene
+   1         -5.3      0.000      0.000
+ 1922_4alpha-hydroxy-1-oxo-5alpha,7alphaH-eudesm-2-en-6alpha,12-olide
+   1         -5.8      0.000      0.000
+ 1923_3beta-hydroxy-1alpha,5alphaH-guaia-4(15),10(14),11(13)-trien-6alpha,12-olide_8alpha-(2-hydroxymethyl)acrylate
+   1         -5.9      0.000      0.000
+ 1924_4alpha,10alpha-dihydroxy-1alpha,2alpha-epoxy-5alpha,7alphaH-guaia-11(13)-_en-12,6alpha-olide
+   1         -4.9      0.000      0.000
+ 1925_matricarin
+   1         -6.1      0.000      0.000
+ 1926_desacetyl-matricarin
+   1         -5.9      0.000      0.000
+ 1927_3beta-hydroxygermacra-1(10),4-dien-6alpha,12-olide
+   1         -6.3      0.000      0.000
+ 1928_1beta-hydroxy-3-oxo-eudesman-6alpha,12-olide
+   1         -6.0      0.000      0.000
+ 1929_8alpha-acetoxy-2alpha-hydroxy-1alpha,5alpha,6beta,7alpha,11betaH-guaia-3,10(14)-dien-12,6-olide
+   1         -5.6      0.000      0.000
+ 192_4-hydroxy-5,7-dimethoxy-8-methylflavan
+   1         -5.5      0.000      0.000
+ 1930_7-acetyl-1,4-dimethylazulene
+   1         -6.0      0.000      0.000
+ 1931_6,10-dimethyl-9-methylene-2-(4-methyl-1,2-dioxabicyclo[2.2.2]oct-5-en-l-yl)undec-5-ene
+   1         -7.9      0.000      0.000
+ 1932_(1R,2S,5R,6S)-2-(3,4,5-_trimethoxyphenyl)-6-(4-hydroxy-3-methoxyphenyl)-3,7-dioxabicyclo[3.3.0]octane
+   1         -5.8      0.000      0.000
+ 1933_arsanin
+   1         -6.0      0.000      0.000
+ 1934_7,11,15-trimethyl-3-methylenehexadecane-1,2-diol
+   1         -6.2      0.000      0.000
+ 1935_sesamin
+   1         -6.6      0.000      0.000
+ 1936_yangambin
+   1         -5.4      0.000      0.000
+ 1937_epiyangambin
+   1         -5.7      0.000      0.000
+ 1938_aschantin
+   1         -6.1      0.000      0.000
+ 1939_sesartemin
+   1         -5.9      0.000      0.000
+ 193_4-hydroxy-7-methoxyflavan
+   1         -6.6      0.000      0.000
+ 1940_spinescen
+   1         -7.9      0.000      0.000
+ 1941_demethoxyexcelsin
+   1         -6.6      0.000      0.000
+ 1942_pinoresinol
+   1         -6.0      0.000      0.000
+ 1943_artemetin
+   1         -5.5      0.000      0.000
+ 1944_scopoletin
+   1         -5.9      0.000      0.000
+ 1945_isofraxidin
+   1         -5.2      0.000      0.000
+ 1946_dracunculin
+   1         -5.9      0.000      0.000
+ 1947_costic_acid_methyl_ester
+   1         -5.9      0.000      0.000
+ 1948_9beta-hydroxy-4beta,15,11beta,13-tetrahydrozaluranin_C
+   1         -5.8      0.000      0.000
+ 1949_3-desacetyl-10,14-desoxoarctolide
+   1         -6.4      0.000      0.000
+ 194_narcisine
+   1         -6.0      0.000      0.000
+ 1950_arctolide
+   1         -5.8      0.000      0.000
+ 1951_desoxyarctolide
+   1         -6.1      0.000      0.000
+ 1952_3beta-acetyloxy-1alpha,13-dihydroxygermacra-4,7(11),9-trien-6alpha,12-olide
+   1         -5.2      0.000      0.000
+ 1953_3beta,13-diacetyloxy-1alpha-hydroxygermacra-4,7(11),9-trien-6alpha,12-olide
+   1         -5.8      0.000      0.000
+ 1954_1beta-hydroxyafraglaucolide
+   1         -5.5      0.000      0.000
+ 1955_1alpha-hydroxyafraglaucolide
+   1         -5.5      0.000      0.000
+ 1956_13-O-desacetyl-1beta-hydroxyafraglaucolide
+   1         -5.0      0.000      0.000
+ 1957_13-O-desacetyl-1alpha-hydroxyafraglaucolide
+   1         -5.7      0.000      0.000
+ 1958_1-oxo-afraglaucolide
+   1         -5.2      0.000      0.000
+ 1959_13-O-desacetyl-1-oxo-afraglaucolide
+   1         -5.3      0.000      0.000
+ 195_lycorine
+   1         -6.2      0.000      0.000
+ 1960_1,13-bis-O-desacetyl-1-oxo-afraglaucolide
+   1         -5.3      0.000      0.000
+ 1961_3beta-acetoxy-1beta,4alpha,13-trihydroxyeudesm-7(11)-en-6alpha,12-olide
+   1         -6.0      0.000      0.000
+ 1962_3beta,13-diacetoxy-1beta,4apha-dihydroxyeudesm-7(11)-en-6alpha,l2-olide
+   1         -6.2      0.000      0.000
+ 1963_3beta-acetoxy-1beta,13-dihydroxyeudesma-4(14),7(11)-dien-6alpha,12-olide
+   1         -6.0      0.000      0.000
+ 1964_3beta,13-diacetoxy-1beta,13-dihydroxyeudesma-4(14),7(11)-dien-6alpha,12-olide
+   1         -6.3      0.000      0.000
+ 1965_cycloartenyl_acetate
+   1         -7.2      0.000      0.000
+ 1966_taraxasteryl_acetate
+   1         -6.5      0.000      0.000
+ 1967_santolinadiol
+   1         -4.4      0.000      0.000
+ 1968_(3E)-2,5,5-trimethylhepta-1,3,6-triene
+   1         -4.8      0.000      0.000
+ 1969_3-ethenyl-2,5-dimethylhexa-1,4-diene
+   1         -5.1      0.000      0.000
+ 196_pseudolycorine
+   1         -6.0      0.000      0.000
+ 1970_beta-ocinene
+   1         -5.1      0.000      0.000
+ 1971_alpha-myrcene
+   1         -4.8      0.000      0.000
+ 1972_limonene
+   1         -4.9      0.000      0.000
+ 1973_3,3,6-trimethylhepta-1,5-dien-4-ol
+   1         -4.5      0.000      0.000
+ 1974_terpinen-4-ol
+   1         -5.3      0.000      0.000
+ 1975_(penta-1,3-diyn-1-yl)benzene
+   1         -5.5      0.000      0.000
+ 1976_(4,6-dimethylhept-5-en-2-yl)benzene
+   1         -6.1      0.000      0.000
+ 1977_capillen
+   1         -5.6      0.000      0.000
+ 1978_cadinene
+   1         -5.9      0.000      0.000
+ 1979_3-methyl-3-phenyl-1,4-pentadiyne
+   1         -5.9      0.000      0.000
+ 197_galanthamine
+   1         -5.5      0.000      0.000
+ 1980_7-methyl-4-methylidene-1-(propan-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene
+   1         -5.5      0.000      0.000
+ 1981_3,7-dimethyloct-6-en-1-yl_propanoate
+   1         -5.6      0.000      0.000
+ 1982_capillin
+   1         -5.8      0.000      0.000
+ 1983_tetradec-1-yn-1-ol
+   1         -5.2      0.000      0.000
+ 1984_ethyl_2-methylbutanoate
+   1         -4.3      0.000      0.000
+ 1985_crotonaldehyde
+   1         -3.4      0.000      0.000
+ 1986_cis-verbenone
+   1         -5.0      0.000      0.000
+ 1987_isophrone
+   1         -5.0      0.000      0.000
+ 1988_carvone
+   1         -5.2      0.000      0.000
+ 1989_ethyl_benzoate
+   1         -5.3      0.000      0.000
+ 198_haemanthamine
+   1         -5.7      0.000      0.000
+ 1990_camphor
+   1         -4.4      0.000      0.000
+ 1991_eucarvone
+   1         -5.0      0.000      0.000
+ 1992_ethyl_mandelate
+   1         -5.7      0.000      0.000
+ 1993_ethyl_cis-cinnamate
+   1         -5.0      0.000      0.000
+ 1994_methyl_trans-cinnamate
+   1         -5.5      0.000      0.000
+ 1995_2,7,7-trimethylcyclohepta-2,4-dien-1-one
+   1         -5.2      0.000      0.000
+ 1996_ethyl_trans-cinnamate
+   1         -5.7      0.000      0.000
+ 1997_2-(5-ethenyl-5-methyloxolan-2-yl)-6-methylhept-5-en-3-one
+   1         -6.4      0.000      0.000
+ 1998_pipertone
+   1         -4.9      0.000      0.000
+ 1999_parthenolid-9-one
+   1         -6.3      0.000      0.000
+ 199_pretazettine
+   1         -6.3      0.000      0.000
+ 19_pectolinarigenin_7-O-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 1_9-O-beta-glucopyranosyl_trans-cinnamyl_alcohol
+   1         -6.0      0.000      0.000
+ 2000_cis-parthenolid-9-one
+   1         -5.4      0.000      0.000
+ 2001_10-isobutyryloxy-8,9-dihydro-8,9-epoxythymol-isobutyrate
+   1         -6.0      0.000      0.000
+ 2002_7,10-diisobutyryloxy-8,9-dihydro-8,9-epoxythymol-isobutyrate
+   1         -6.7      0.000      0.000
+ 2003_7-isovaleryloxy-10-isobutyryloxy-8,9-dihydro-8,9-epoxythymol-isobutyrate
+   1         -6.6      0.000      0.000
+ 2004_1,5,12-trihydroxy-5-O-(4'-O-angeloyl-beta-D-glucopyranosyl)-farsenol
+   1         -6.3      0.000      0.000
+ 2005_1,5,12-trihydroxy-5-O-(3'-O-acetyl-4'-O-angeloyl-beta-D-glucopyranosyl)-farsenol
+   1         -6.5      0.000      0.000
+ 2006_1,5,12-trihydroxy-5-O-(2',3'-O-diacetyl-4'-O-angeloyl-beta-D-glucopyranosyl)-farsenol
+   1         -6.4      0.000      0.000
+ 2007_1,5,12-trihydroxy-5-O-(2',3',6'-O-triacetyl-4'-O-angeloyl-beta-D-glucopyranosyl)-farsenol
+   1         -6.0      0.000      0.000
+ 2008_taurin
+   1         -6.6      0.000      0.000
+ 2009_8alpha-hydroxy-4alpha,5alpha-epoxytaurin
+   1         -5.7      0.000      0.000
+ 200_tazettine
+   1         -6.2      0.000      0.000
+ 2010_alpha-santonin
+   1         -7.0      0.000      0.000
+ 2011_isoerivanin
+   1         -5.9      0.000      0.000
+ 2012_erivanin
+   1         -5.6      0.000      0.000
+ 2013_herbalbin
+   1         -5.7      0.000      0.000
+ 2014_ambrosin
+   1         -6.2      0.000      0.000
+ 2015_damsin
+   1         -6.2      0.000      0.000
+ 2016_hymenin
+   1         -6.2      0.000      0.000
+ 2017_neocorymboside
+   1         -6.1      0.000      0.000
+ 2018_9alpha-hydroxyparthenolide
+   1         -5.8      0.000      0.000
+ 2019_parthenolid-9-one
+   1         -6.3      0.000      0.000
+ 201_9-O-demethylhomolycorine
+   1         -5.3      0.000      0.000
+ 2020_8alpha,9alpha-epoxyparthenolide
+   1         -5.6      0.000      0.000
+ 2021_11,13-dihydroisoreynosin
+   1         -6.0      0.000      0.000
+ 2022_5alpha-hydroxy-11,13-dihydroreynosin
+   1         -5.9      0.000      0.000
+ 2023_11,13-dihydroreynosin
+   1         -5.4      0.000      0.000
+ 2024_4alpha-hydroxy-4,15,11,13-tetrahydroreynosin
+   1         -5.4      0.000      0.000
+ 2025_8alpha-hydroxy-11,13-dihydroreynosin
+   1         -5.2      0.000      0.000
+ 2026_5alpha-hydroxy-11,13-dihydroreynosin_acetate
+   1         -6.0      0.000      0.000
+ 2027_9beta-hydroxy-11,13-dihydroreynosin
+   1         -5.4      0.000      0.000
+ 2028_1-oxo-germacr-4-en-12,6-olide
+   1         -6.0      0.000      0.000
+ 2029_1beta,8alpha-dihydroxygermacr-4-en-12,6-olide
+   1         -5.9      0.000      0.000
+ 202_augustamine
+   1         -7.0      0.000      0.000
+ 2030_5beta,9beta-dihydroxy-1-oxo-germacra-1(10),4(15)-dien-12,6-olide
+   1         -5.3      0.000      0.000
+ 2031_13-hydroxy-alpha-cyperene
+   1         -5.7      0.000      0.000
+ 2032_3-oxo-eudesma-4,11(13)-dien-12-oic_acid
+   1         -6.6      0.000      0.000
+ 2033_2beta-hydroxy-13-oxo-alpha-cyperene
+   1         -5.9      0.000      0.000
+ 2034_1beta,5,12-trihydroxygermacra-1(10),4(15),11(13)-triene
+   1         -4.9      0.000      0.000
+ 2035_7-hydroxy-5,6-dehydro-4,5-dihydrolyratrol
+   1         -5.1      0.000      0.000
+ 2036_seco-thujene
+   1         -4.8      0.000      0.000
+ 2037_4-(p-hydroxyphenyl)-butan-2-one
+   1         -5.5      0.000      0.000
+ 2038_lumisantonin
+   1         -6.0      0.000      0.000
+ 2039_1-(hexa-2,4-diynyl)benzene
+   1         -5.7      0.000      0.000
+ 203_ungeremine
+   1         -6.7      0.000      0.000
+ 2040_1-phenylhexa-2,4-diyn-1-one
+   1         -5.8      0.000      0.000
+ 2041_1-(4-hydroxy-3-(3-methylbut-2-enyl)phenyl)ethanone
+   1         -6.5      0.000      0.000
+ 2042_1-(4-hydroxy-3-((Z)-4-hydroxy-3-methylbut-2-enyl)phenyl)ethanone
+   1         -6.2      0.000      0.000
+ 2043_1-(4-hydroxy-3-((E)-4-hydroxy-3-methylbut-2-enyl)phenyl)ethanone
+   1         -6.2      0.000      0.000
+ 2044_(2E)-4-(5-acetyl-2-hydroxyphenyl)-2-methylbut-2-enal
+   1         -6.3      0.000      0.000
+ 2045_1-((S)-2,3-dihydro-2-((R)-1-hydroxypropan-2-yl)benzofuran-5-yl)ethanone
+   1         -5.8      0.000      0.000
+ 2046_1-((S)-2,3-dihydro-2-((S)-1-hydroxypropan-2-yl)benzofuran-5-yl)ethanone
+   1         -5.7      0.000      0.000
+ 2047_1-((S)-2,3-dihydro-2-(prop-1-en-2-yl)benzofuran-5-yl)ethanone
+   1         -5.5      0.000      0.000
+ 2048_capillarol
+   1         -6.9      0.000      0.000
+ 2049_d-cyclocapillarol
+   1         -6.4      0.000      0.000
+ 204_zefbetaine
+   1         -7.1      0.000      0.000
+ 2050_l-cyclocapillarol
+   1         -6.8      0.000      0.000
+ 2051_1-(4-hydroxy-3-((Z)-4-hydroxy-3-methylbut-2-enyl)-5-(3-methylbut-2-enyl)phenyl)ethanone
+   1         -6.8      0.000      0.000
+ 2052_naringenin_7-methyl_ether
+   1         -6.5      0.000      0.000
+ 2053_eriodictyol_7-methyl_ether
+   1         -6.6      0.000      0.000
+ 2054_quercetin_3,7-dimethyl_ether
+   1         -6.3      0.000      0.000
+ 2055_quercetin_7,3'-dimethyl_ether
+   1         -6.0      0.000      0.000
+ 2056_vulgarin
+   1         -5.5      0.000      0.000
+ 2057_4alpha-hydroperoxy-desoxyvulgarin
+   1         -5.7      0.000      0.000
+ 2058_4-epi-vulgarin
+   1         -6.0      0.000      0.000
+ 2059_(E)-2-(tetrahydro-5-methyl-5-vinylfuran-2-yl)-6-hydroperoxy-6-methylhept-4-en-3-one
+   1         -6.4      0.000      0.000
+ 205_hippadine
+   1         -6.5      0.000      0.000
+ 2060_ethyl_cinnamate
+   1         -5.8      0.000      0.000
+ 2061_alpha-pinene
+   1         -4.9      0.000      0.000
+ 2062_chrysanthenone
+   1         -4.9      0.000      0.000
+ 2063_camphor
+   1         -4.4      0.000      0.000
+ 2064_piperitone
+   1         -4.9      0.000      0.000
+ 2065_verbenol
+   1         -5.2      0.000      0.000
+ 2066_swertisin_2''-arabinoside
+   1         -5.7      0.000      0.000
+ 2067_hydroxydavanone
+   1         -6.6      0.000      0.000
+ 2068_8alpha-hydroxy-3-oxo-6betaH,7alphaH,11betaH-germacran-4(14),9(10)-dien-6,12-olide
+   1         -6.0      0.000      0.000
+ 2069_1beta-hydroxy-6betaH,7alphaH,11alphaH-germacran-4(5),10(15)-dien-6,12-olide
+   1         -5.8      0.000      0.000
+ 206_2-O-acetylchlidanthine
+   1         -6.4      0.000      0.000
+ 2070_3beta,8alpha-dihydroxy-6betaH,7alphaH,11betaH-germacran-4(14),9(10)-dien-6,l2-olide
+   1         -5.6      0.000      0.000
+ 2071_thymol
+   1         -4.9      0.000      0.000
+ 2072_11beta-hydroxy-13-chloro-11,13-dihydrohymenin
+   1         -5.5      0.000      0.000
+ 2073_8alpha-acetyloxy-2-oxo-guaia-3,9-dien-6alpha,12-olide
+   1         -6.1      0.000      0.000
+ 2074_8alpha-hydroxy-2-oxo-guaia-3,9-dien-6alpha,12-olide
+   1         -5.7      0.000      0.000
+ 2075_kaempferol
+   1         -5.8      0.000      0.000
+ 2076_quercetin
+   1         -6.0      0.000      0.000
+ 2077_kaempferol_3-O-beta-D-glucoside
+   1         -5.5      0.000      0.000
+ 2078_quercetin_3-O-beta-D-glucoside
+   1         -6.2      0.000      0.000
+ 2079_quercetagetin
+   1         -6.3      0.000      0.000
+ 207_galanthamine
+   1         -5.5      0.000      0.000
+ 2080_quercetagetin-6,3,3'-trimethyl_ether
+   1         -6.0      0.000      0.000
+ 2081_quercetagetin-6,3',4'-trimethyl_ether
+   1         -5.4      0.000      0.000
+ 2082_quercetagetin-6,3',4'-trimethyl_ether_7-O-beta-D-glucoside
+   1         -5.6      0.000      0.000
+ 2083_quercetagetin-6-methyl_ether_3-O-beta-D-glucoside
+   1         -5.8      0.000      0.000
+ 2084_quercetagetin-6-methyl_ether__3-O-beta-D-galactoside
+   1         -5.9      0.000      0.000
+ 2085_quercetagetin-6-methyl_ether_3-O-beta-D-digalactoside
+   1         -5.7      0.000      0.000
+ 2086_quercetagetin-6-methyl_ether_3-sulphate
+   1         -5.4      0.000      0.000
+ 2087_8alpha-hydroxy-1beta,10alpha-epoxygermacra-4,11(13)-dien-6alpha,12-olide
+   1         -5.6      0.000      0.000
+ 2088_1beta,8alpha-dihydroxygermacra-4,10(14),11(13)-trien-6alpha,12-olide
+   1         -5.9      0.000      0.000
+ 2089_reynosin
+   1         -5.4      0.000      0.000
+ 208_lycorine
+   1         -6.2      0.000      0.000
+ 2090_reynosin_acetate
+   1         -5.3      0.000      0.000
+ 2091_6alpha-hydroxygermacra-1(10),4,11(13)-trien-8alpha,12-olide
+   1         -5.1      0.000      0.000
+ 2092_6alpha-hydroxy-1alpha,4beta-epoxygermacra-1(10),4,11(13)-trien-8alpha,12-olide
+   1         -5.8      0.000      0.000
+ 2093_6alpha-hydroxy-4beta,5alpha-epoxygermacra-1(10),4,11(13)-trien-8alpha,12-olide
+   1         -5.9      0.000      0.000
+ 2094_6alpha-angeloyloxygermacra-1(10),4,11(13)-trien-8alpha,12-olide
+   1         -6.1      0.000      0.000
+ 2095_6alpha-angeloyloxy-4alpha,5beta-epoxygermacra-1(10),4,11(13)-trien-8alpha,12-olide
+   1         -6.1      0.000      0.000
+ 2096_1alpha-hydroxy-6-angeloyloxygermacra-4,10(14),11(13)-trien-8alpha,12-olide
+   1         -5.9      0.000      0.000
+ 2097_1beta,6alpha-dihydroxyeudesma-4(15),11(13)-dien-8alpha,12-olide
+   1         -6.1      0.000      0.000
+ 2098_6alpha-angeloyloxy-1beta,4alpha-dihydroxyeudesm-11(13)-en-8alpha,12-olide
+   1         -6.0      0.000      0.000
+ 2099_6acetoxy-hydroxyguaia-1(10),4(15),11(13)-trien-8alpha,12-olide
+   1         -6.9      0.000      0.000
+ 209_haemultine
+   1         -5.6      0.000      0.000
+ 20_cistanoside_F
+   1         -6.0      0.000      0.000
+ 2100_6alpha-hydroxyguaia-1(10),4(15),11(13)-trien-8alpha,12-olide
+   1         -6.5      0.000      0.000
+ 2101_6alpha-acetoxy-1beta-hydroxyguaia-4(15),10(14),11(13)-trien-8alpha,12-olide
+   1         -5.1      0.000      0.000
+ 2102_6alpha-acetoxy-1beta-hydroxyperoxyguaia-4(15),10(14),11(13)-trien-8alpha,12-olide
+   1         -5.3      0.000      0.000
+ 2103_6alpha-acetoxy-1alpha-hydroxyguaia-4(15),10(14),11(13)-trien-8alpha,12-olide
+   1         -5.4      0.000      0.000
+ 2104_6alpha-acetoxy-10beta-hydroxyguaia-1,4(15),11(13)-trien-8alpha,12-olide
+   1         -5.2      0.000      0.000
+ 2105_13-acetoxy-9beta-hydroxy-1beta,10alpha-epoxygermacra-4,7(11)-dien-6alpha,12-olide
+   1         -5.4      0.000      0.000
+ 2106_8alpha,13-diacetoxy-1alpha-hydroxygermacra-4,7(11),10(14)-trien-_6alpha,12-olide
+   1         -5.1      0.000      0.000
+ 2107_8alpha,13-diacetoxy-1beta-hydroxygermacra-4,7(11),10(14)-trien-_6a,12-olide
+   1         -4.9      0.000      0.000
+ 2108_8alpha,13-dihydroxy-1-oxo-germacra-4,7(11),10(14)-trien-6alpha,12-olide
+   1         -6.2      0.000      0.000
+ 2109_8alpha-acetoxy,13-hydroxy-1-oxo-germacra-4,7(11),10(14)-trien-6alpha,12-olide
+   1         -5.2      0.000      0.000
+ 210_hippadine
+   1         -6.5      0.000      0.000
+ 2110_8alpha,13-diacetoxy-1-oxo-germacra-4,7(11),10(14)-trien-6alpha,12-olide
+   1         -5.4      0.000      0.000
+ 2111_13-acetoxy-1beta,8alpha-dihydroxyeudesma-4(15),7(13)-dien-6alpha,12-olide
+   1         -5.0      0.000      0.000
+ 2112_8alpha,13-diacetoxy-1beta-hydroxyeudesma-4(15),7(13)-dien-6a,12-olide
+   1         -5.4      0.000      0.000
+ 2113_1alpha-hydroxy-8alpha,13-diacetoxy-germacra-4,7(11),9-trien-6alpha,12-olide
+   1         -6.6      0.000      0.000
+ 2114_13-acetoxy-1beta,8alpha-dihydroxyeudesma-3,7(13)-dien-6alpha,12-olide
+   1         -5.9      0.000      0.000
+ 2115_seco-thujene
+   1         -4.7      0.000      0.000
+ 2116_(7Z)-7-(hexa-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.4]nona-2,8-dien-4-yl_acetate
+   1         -6.7      0.000      0.000
+ 2117_(7E)-7-(hexa-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.4]nona-2,8-dien-4-yl_acetate
+   1         -5.9      0.000      0.000
+ 2118_camphor
+   1         -4.4      0.000      0.000
+ 2119_haageanolide
+   1         -5.9      0.000      0.000
+ 211_5-hydroxydotriacontan-9-one
+   1         -7.7      0.000      0.000
+ 2120_1beta,10alpha-epoxyhaageanolide
+   1         -5.6      0.000      0.000
+ 2121_farnochrol
+   1         -7.5      0.000      0.000
+ 2122_drimartol_A
+   1         -6.2      0.000      0.000
+ 2123_acetyldrimartol_A
+   1         -6.4      0.000      0.000
+ 2124_acetyldrimartol_B
+   1         -6.7      0.000      0.000
+ 2125_pectachol_B
+   1         -6.3      0.000      0.000
+ 2126_acetylpectachol_B
+   1         -6.5      0.000      0.000
+ 2127_pectachol
+   1         -6.3      0.000      0.000
+ 2128_scopofarnol
+   1         -7.8      0.000      0.000
+ 2129_farnesylscopoletin
+   1         -7.1      0.000      0.000
+ 212_23-hydroxyhentriacontan-29-one
+   1         -5.9      0.000      0.000
+ 2130_(2E)-2-(hexa-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.5]dec-3-ene
+   1         -5.9      0.000      0.000
+ 2131_(7E)-7-(hexa-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.4]nona-2,8-diene
+   1         -6.0      0.000      0.000
+ 2132_(7E)-7-(hexa-2,4-diyn-1-ylidene)-1,6-dioxaspiro[4.4]nona-2,8-dien-4-yl_acetate
+   1         -6.0      0.000      0.000
+ 2133_apigenin_7-glucuronide
+   1         -5.1      0.000      0.000
+ 2134_luteolin_7-glucoside
+   1         -6.5      0.000      0.000
+ 2135_luteolin_7-glucuronide
+   1         -6.6      0.000      0.000
+ 2136_luteolin_7-rutinoside
+   1         -6.9      0.000      0.000
+ 2137_luteolin_7-glucosylglucuronide
+   1         -6.5      0.000      0.000
+ 2138_scopoletin
+   1         -5.9      0.000      0.000
+ 2139_aesculetin
+   1         -5.6      0.000      0.000
+ 213_triacontanol
+   1         -5.1      0.000      0.000
+ 2140_pyrophen
+   1         -6.3      0.000      0.000
+ 2141_rubrofusarin_B
+   1         -6.3      0.000      0.000
+ 2142_fonsecin
+   1         -6.6      0.000      0.000
+ 2143_fonsecin_B
+   1         -6.7      0.000      0.000
+ 2144_aurasperone_A
+   1         -6.1      0.000      0.000
+ 2145_aurasperone_B
+   1         -6.9      0.000      0.000
+ 2146_aurasperone_C
+   1         -6.7      0.000      0.000
+ 2147_aurasperone_F
+   1         -6.8      0.000      0.000
+ 2148_aplysinopsin
+   1         -5.8      0.000      0.000
+ 2149_6-bromoaplysinopsin
+   1         -6.4      0.000      0.000
+ 214_sitosterol-beta-D-glucoside
+   1         -6.6      0.000      0.000
+ 2150_N-propionylaplysinopsin
+   1         -6.7      0.000      0.000
+ 2151_6-bromo-N-propionylaplysinopsin
+   1         -6.5      0.000      0.000
+ 2152_2-amino-6-(1R,2S-dihydroxypropyl)-3-methylpterin-4-one
+   1         -5.3      0.000      0.000
+ 2153_6-bromo-N-methylaplysinopsin
+   1         -6.3      0.000      0.000
+ 2154_orthidine_A
+   1         -8.2      0.000      0.000
+ 2155_orthidine_C
+   1         -7.3      0.000      0.000
+ 2156_orthidine_D
+   1         -7.6      0.000      0.000
+ 2157_tubastrine
+   1         -6.0      0.000      0.000
+ 2158_ehrenasterol
+   1         -6.2      0.000      0.000
+ 2159_biemnic_acid
+   1         -5.9      0.000      0.000
+ 215_narciclasine-4-O-beta-D-glucopyranoside
+   1         -6.4      0.000      0.000
+ 2160_(22E)-ergosta-5,8,22-trien-7-one-3beta-ol
+   1         -6.5      0.000      0.000
+ 2161_32,35-anhydrobacteriohopanetetrol
+   1         -7.0      0.000      0.000
+ 2162_(24R)-ergosta-6,22-diene-5,8-epidioxy-3-ol
+   1         -7.6      0.000      0.000
+ 2163_melithasterol_B
+   1         -7.1      0.000      0.000
+ 2164_thymidine
+   1         -5.0      0.000      0.000
+ 2165_2'-deoxyuridine
+   1         -5.4      0.000      0.000
+ 2166_12-N-methyl_stevensine
+   1         -5.3      0.000      0.000
+ 2167_12-N-methyl-2-debromostevensine
+   1         -5.2      0.000      0.000
+ 2168_3-debromolatonduine_B_methyl_ester
+   1         -5.9      0.000      0.000
+ 2169_3-debromolatonduine_A
+   1         -6.0      0.000      0.000
+ 216_vittacarboline
+   1         -6.9      0.000      0.000
+ 2170_Z-hymenialdisine
+   1         -7.3      0.000      0.000
+ 2171_Z-debromohymenialdisine
+   1         -7.0      0.000      0.000
+ 2172_stevensine
+   1         -6.0      0.000      0.000
+ 2173_2-debromostevensine
+   1         -5.7      0.000      0.000
+ 2174_3-bromoaldizine
+   1         -4.9      0.000      0.000
+ 2175_3,4-dibromopyrrole-2-carbamide
+   1         -4.0      0.000      0.000
+ 2176_latonduine_A
+   1         -5.7      0.000      0.000
+ 2177_latonduine_B_methyl_ester
+   1         -5.5      0.000      0.000
+ 2178_18,19-epoxyxenic-19-methoxy-18-hydroxy-4-acetoxy-6,9,13-triene
+   1         -5.2      0.000      0.000
+ 2179_18,19-epoxyxenic-18,19-dimethoxy-4-hydroxy-6,9,13-triene
+   1         -6.4      0.000      0.000
+ 217_ismine
+   1         -5.9      0.000      0.000
+ 2180_(5Z,8Z,11Z,14Z,17Z)-1-(2,4,6-trihydroxyphenyl)icosa-5,8,11,14,17-pentaen-1-one
+   1         -7.2      0.000      0.000
+ 2181_(S,5Z,8Z,11Z,13E,17Z)-15-hydroxy-1-(2,4,6-trihydroxyphenyl)-15-methylicosa-5,8,11,13,17-pentaen-1-one
+   1         -8.7      0.000      0.000
+ 2182_2,3-dihydro-5,7-dihydroxy-3-((3Z,6Z,9Z,12Z,15Z)-octadeca-3,6,9,12,15-pentaenyl)chromen-4-one
+   1         -7.4      0.000      0.000
+ 2183_2,3-dihydro-7-hydroxy-5-methyl-3-((3Z,6Z,9Z,12Z,15Z)-octadeca-3,6,9,12,15-pentaenyl)chromen-4-one
+   1         -7.7      0.000      0.000
+ 2184_(Z)-5,8,11,14,17-eicosapentaenoic_acid
+   1         -7.7      0.000      0.000
+ 2185_ciliolatale
+   1         -5.5      0.000      0.000
+ 2186_17-acetoxy-dictyodial
+   1         -5.7      0.000      0.000
+ 2187_dictyodial
+   1         -6.4      0.000      0.000
+ 2188_dictyol_C
+   1         -5.4      0.000      0.000
+ 2189_dictyol_H
+   1         -6.8      0.000      0.000
+ 218_O-methylismine
+   1         -5.7      0.000      0.000
+ 2190_didemnaketal_D
+   1         -4.7      0.000      0.000
+ 2191_didemnaketal_E
+   1         -5.0      0.000      0.000
+ 2192_dipsaicin
+   1         -5.3      0.000      0.000
+ 2193_sylvestroside
+   1         -6.2      0.000      0.000
+ 2194_loganin
+   1         -5.3      0.000      0.000
+ 2195_ursolic_acid
+   1         -6.0      0.000      0.000
+ 2196_1beta-hydroxy-kryptogenin-1-O-alpha-L-rhamnopyranosyl-(12)-alpha-L-arabinopyranoside
+   1         -6.8      0.000      0.000
+ 2197_(3S)-3,7-dihydroxy-8-methoxy-3-(3',4'-methylenedioxybenzyl)chroman-4-one
+   1         -6.3      0.000      0.000
+ 2198_alliospiroside_A
+   1         -4.4      0.000      0.000
+ 2199_incrustasterol_A
+   1         -5.0      0.000      0.000
+ 219_lycorine
+   1         -6.2      0.000      0.000
+ 21_(2R)-2-O-beta-D-glucopyranosyl-4-hydroxy-2H-1,4-benzoxazin-3(4H)-one
+   1         -5.6      0.000      0.000
+ 2200_incrustasterol_B
+   1         -5.3      0.000      0.000
+ 2201_vicenin_II
+   1         -5.2      0.000      0.000
+ 2202_herbacetin_8-methyl_ether_3-O-_glucoside-7-O-rutinoside
+   1         -6.0      0.000      0.000
+ 2203_lucenin_III
+   1         -5.2      0.000      0.000
+ 2204_kaempferol_3-rhamnoside
+   1         -6.2      0.000      0.000
+ 2205_quercetin_3-rhamnoside
+   1         -6.4      0.000      0.000
+ 2206_herbacetin_7-glucoside
+   1         -6.1      0.000      0.000
+ 2207_herbacetin_7-O-(6''-quinylglucoside)
+   1         -5.8      0.000      0.000
+ 2208_p-coumaric_acid
+   1         -5.6      0.000      0.000
+ 2209_syringaresinol
+   1         -5.4      0.000      0.000
+ 220_clivonine
+   1         -6.5      0.000      0.000
+ 2210_nilocitin
+   1         -5.7      0.000      0.000
+ 2211_ephedralone
+   1         -5.7      0.000      0.000
+ 2212_2'',2'''-di-O-beta-glucopyranosyl-vicenin_II
+   1         -2.6      0.000      0.000
+ 2213_herbacetin_3-O-alpha-rhamnopyranoside-8-O-beta-glucopyranoside
+   1         -6.2      0.000      0.000
+ 2214_vicenin_II
+   1         -5.3      0.000      0.000
+ 2215_ephedralone
+   1         -5.7      0.000      0.000
+ 2216_p-hydroxybenzoic_acid
+   1         -5.2      0.000      0.000
+ 2217_p-coumaric_acid
+   1         -5.6      0.000      0.000
+ 2218_protocatechuic_acid
+   1         -5.3      0.000      0.000
+ 2219_herbacetin-7-methyl_ether
+   1         -5.4      0.000      0.000
+ 221_clivatine
+   1         -6.5      0.000      0.000
+ 2220_kaempferol-3-sophoroside-7-glucoside
+   1         -6.5      0.000      0.000
+ 2221_kaempferol-3-sophoroside
+   1         -5.7      0.000      0.000
+ 2222_arbutoside
+   1         -5.6      0.000      0.000
+ 2223_quercetin
+   1         -6.0      0.000      0.000
+ 2224_hyperoside
+   1         -6.0      0.000      0.000
+ 2225_epicatechin
+   1         -6.3      0.000      0.000
+ 2226_catechin
+   1         -6.5      0.000      0.000
+ 2227_catechin_gallate
+   1         -6.7      0.000      0.000
+ 2228_gallic_acid
+   1         -5.1      0.000      0.000
+ 2229_3-alpha-hydroxycativic_acid
+   1         -6.7      0.000      0.000
+ 222_clivonidine
+   1         -6.0      0.000      0.000
+ 2230_dihydromethylcativate
+   1         -6.4      0.000      0.000
+ 2231_3-alpha-hydroxycativic_acid_methyl_esther
+   1         -6.4      0.000      0.000
+ 2232_3-alpha-hydroxycativic_acid_diol
+   1         -6.0      0.000      0.000
+ 2233_quercetin
+   1         -6.0      0.000      0.000
+ 2234_apigenin
+   1         -6.3      0.000      0.000
+ 2235_luteolin
+   1         -6.2      0.000      0.000
+ 2236_apigenin_7-glucoside
+   1         -7.3      0.000      0.000
+ 2237_apigenin_7-glucoside
+   1         -7.3      0.000      0.000
+ 2238_quercetin_3-glucoside
+   1         -6.8      0.000      0.000
+ 2239_quercetin_3-rhamnoside
+   1         -6.7      0.000      0.000
+ 223_2',4,4'-trihydroxy-3'-methoxychalcone
+   1         -6.4      0.000      0.000
+ 2240_ellagic_acid
+   1         -5.3      0.000      0.000
+ 2241_gallic_acid
+   1         -5.1      0.000      0.000
+ 2242_euphoscopin_A
+   1         -6.1      0.000      0.000
+ 2243_euphoscopin_B
+   1         -5.4      0.000      0.000
+ 2244_helioscopinolide_A
+   1         -6.4      0.000      0.000
+ 2245_helioscopinolide_B
+   1         -7.3      0.000      0.000
+ 2246_helioscopinolide_C
+   1         -6.9      0.000      0.000
+ 2247_euphohelioscopin_A
+   1         -6.0      0.000      0.000
+ 2248_euphohelioscopin_B
+   1         -6.0      0.000      0.000
+ 2249_euphoscopin_C
+   1         -5.6      0.000      0.000
+ 224_2',4,4'-trihydroxychalcone
+   1         -7.1      0.000      0.000
+ 2250_euphoscopin_D
+   1         -4.6      0.000      0.000
+ 2251_euphornin_A
+   1         -6.0      0.000      0.000
+ 2252_euphornin_B
+   1         -4.6      0.000      0.000
+ 2253_euphornin_C
+   1         -6.2      0.000      0.000
+ 2254_euphohelin_A
+   1         -5.9      0.000      0.000
+ 2255_euphohelin_B
+   1         -6.3      0.000      0.000
+ 2256_euphohelin_C
+   1         -5.2      0.000      0.000
+ 2257_euphohelin_D
+   1         -6.1      0.000      0.000
+ 2258_euphohelin_E
+   1         -5.6      0.000      0.000
+ 2259_euphornin_D
+   1         71.9      0.000      0.000
+ 225_(-)-4'-hydroxy-7-methoxy-8-methylflavan
+   1         -6.2      0.000      0.000
+ 2260_euphornin_E
+   1         -5.1      0.000      0.000
+ 2261_euphornin_F
+   1         -5.0      0.000      0.000
+ 2262_euphornin_G
+   1         47.7      0.000      0.000
+ 2263_euphornin_H
+   1         23.7      0.000      0.000
+ 2264_euphornin_I
+   1         -5.6      0.000      0.000
+ 2265_euphornin_J
+   1         -6.1      0.000      0.000
+ 2266_euphornin_K
+   1         -4.6      0.000      0.000
+ 2267_euphoscopin_E
+   1         -6.7      0.000      0.000
+ 2268_euphoscopin_F
+   1         -6.2      0.000      0.000
+ 2269_euphoscopin_G
+   1         -4.7      0.000      0.000
+ 226_diphenylamine
+   1         -5.9      0.000      0.000
+ 2270_euphoscopin_H
+   1         -4.8      0.000      0.000
+ 2271_euphoscopin_I
+   1         -5.4      0.000      0.000
+ 2272_euphoscopin_J
+   1         -5.7      0.000      0.000
+ 2273_euphoscopin_K
+   1         -4.8      0.000      0.000
+ 2274_euphoscopin_L
+   1         -4.1      0.000      0.000
+ 2275_epieuphoscopin_A
+   1         -5.4      0.000      0.000
+ 2276_epieuphoscopin_B
+   1         -3.8      0.000      0.000
+ 2277_epieuphoscopin_D
+   1         -4.2      0.000      0.000
+ 2278_epieuphoscopin_F
+   1         -4.9      0.000      0.000
+ 2279_euphohelionon
+   1         -7.9      0.000      0.000
+ 227_nobilisine
+   1         -6.3      0.000      0.000
+ 2280_euphornin
+   1         -5.0      0.000      0.000
+ 2281_euphornin_L
+   1         -6.2      0.000      0.000
+ 2282_euphoheliosnoid_A
+   1         -5.9      0.000      0.000
+ 2283_euphoheliosnoid_B
+   1         -5.4      0.000      0.000
+ 2284_euphoheliosnoid_C
+   1         -6.3      0.000      0.000
+ 2285_euphoheliosnoid_D
+   1         -6.3      0.000      0.000
+ 2286_5,11-jatrophadiene-3-benzoyloxy-7,9,14-triacetyloxy-15-ol
+   1         -3.8      0.000      0.000
+ 2287_euphoscopin_M
+   1         -5.5      0.000      0.000
+ 2288_euphoscopin_N
+   1         -6.2      0.000      0.000
+ 2289_euphornin_L
+   1         -6.0      0.000      0.000
+ 228_5alpha-hydroxy-3alpha,5a-epi-masan-7-one
+   1         -6.5      0.000      0.000
+ 2290_euphornin_N
+   1         -6.2      0.000      0.000
+ 2291_7beta,9alpha,14beta-triacetoxy-3beta-benzoyloxy-12beta,15beta-epoxy-11beta-hydroxy-jatropha-5E-ene
+   1         -5.1      0.000      0.000
+ 2292_14beta-acetoxy-3beta-benzoyloxy-7beta,9alpha,15beta_trihydroxyjatropha-5E,11E-diene
+   1         -6.5      0.000      0.000
+ 2293_7beta,9alpha,14beta-triacetoxy-3beta-benzoyloxy-_15beta,17-dihydroxy-jatropha-5E,11E-diene
+   1         -5.5      0.000      0.000
+ 2294_14alpha,15beta-diacetoxy-3beta,7beta-dibenzoyloxy-17-hydroxy-9-oxo-2betaHjatropha-5E,11E-diene
+   1         -6.5      0.000      0.000
+ 2295_3beta,7beta,15beta-trihydroxy-14-oxolathyra-5E,12E-dienyl-16-O-beta-D-glucopyranoside
+   1         -5.0      0.000      0.000
+ 2296_euphohelioscopin_C
+   1         -6.6      0.000      0.000
+ 229_lycorine
+   1         -6.2      0.000      0.000
+ 22_nepetin_7-O-beta-D-glucopyranoside
+   1         -5.8      0.000      0.000
+ 230_oxocrinine
+   1         -5.8      0.000      0.000
+ 2316_euphorhelin
+   1         28.4      0.000      0.000
+ 231_crinine
+   1         -6.0      0.000      0.000
+ 232_flexinine
+   1         -5.9      0.000      0.000
+ 233_O-acetylcrinine
+   1         -6.0      0.000      0.000
+ 234_lycorine
+   1         -6.2      0.000      0.000
+ 235_hippadine
+   1         -6.5      0.000      0.000
+ 236_pratorinine
+   1         -6.4      0.000      0.000
+ 237_pratorimine
+   1         -6.7      0.000      0.000
+ 238_pratosine
+   1         -5.6      0.000      0.000
+ 239_ungeremine
+   1         -6.5      0.000      0.000
+ 23_demethoxycentaureidin_7-O-beta-D-glucopyranoside
+   1         -6.2      0.000      0.000
+ 240_trisphaeridine
+   1         -6.6      0.000      0.000
+ 241_6alpha-hydroxybuphaninisine
+   1         -6.5      0.000      0.000
+ 242_6beta-hydroxybuphaninisine
+   1         -6.5      0.000      0.000
+ 243_6alpha-hydroxycrinine
+   1         -5.7      0.000      0.000
+ 244_6beta-hydroxycrinine
+   1         -6.1      0.000      0.000
+ 245_crinamine
+   1         -5.6      0.000      0.000
+ 246_5-hydroxyhexacosan-9-one
+   1         -6.4      0.000      0.000
+ 247_5-hydroxyoctacosan-9-one
+   1         -5.7      0.000      0.000
+ 248_5-hydroxytriacontan-9-one
+   1         -5.9      0.000      0.000
+ 249_methyl_palmitate
+   1         -5.6      0.000      0.000
+ 24_1-octen-3-ol
+   1         -4.7      0.000      0.000
+ 250_palmitic_acid
+   1         -5.9      0.000      0.000
+ 251_stearic_acid
+   1         -5.8      0.000      0.000
+ 252_augustine
+   1         -6.3      0.000      0.000
+ 253_syzalterin
+   1         -6.2      0.000      0.000
+ 254_6,8-dimethyl-5,7,4-trihydroxyflavone
+   1         -6.2      0.000      0.000
+ 255_(-)-farrerol
+   1         -6.1      0.000      0.000
+ 256_6,8-dimethyl-5,7,4'-trihydroxyflavanone
+   1         -6.1      0.000      0.000
+ 257_(-)-liquiritigenin
+   1         -6.5      0.000      0.000
+ 258_7,4'-dihydroxyflavanone
+   1         -6.5      0.000      0.000
+ 259_isoliquiritigenin
+   1         -7.0      0.000      0.000
+ 25_3-O-beta-glucopyranosyl-1-octen-3-ol
+   1         -5.2      0.000      0.000
+ 260_4,2',4'-trihydroxychalcone
+   1         -7.1      0.000      0.000
+ 261_maritimin
+   1         -5.3      0.000      0.000
+ 262_7-hydroxy-5-methoxy-2-methylchromone
+   1         -5.3      0.000      0.000
+ 263_2,4-dihydroxy-6-methoxy-3-methylacetophenone
+   1         -4.9      0.000      0.000
+ 264_2,6-dimethoxy-4-hydroxyacetophenone
+   1         -4.8      0.000      0.000
+ 265_nobilisitine_A
+   1         -6.4      0.000      0.000
+ 266_nobilisitine_B
+   1         -6.8      0.000      0.000
+ 267_nobilisitine_A
+   1         -6.5      0.000      0.000
+ 268_p-cymene
+   1         -5.3      0.000      0.000
+ 269_beta-pinene
+   1         -5.0      0.000      0.000
+ 26_3-O-beta-glucopyranosyl-(16)-beta-glucopyranosyl-1-octen-3-ol
+   1         -5.4      0.000      0.000
+ 270_alpha-terpinene
+   1         -5.0      0.000      0.000
+ 271_limonene
+   1         -4.9      0.000      0.000
+ 272_methyl_5-(3-4-dihydroxyphenyl)-3-hydroxypenta-2,4-dienoate
+   1         -6.2      0.000      0.000
+ 273_hispolon
+   1         -6.0      0.000      0.000
+ 274_6-(3,4-dihydroxyphenyl)-4-_hydroxyhexa-3,5-dien-2-one
+   1         -6.2      0.000      0.000
+ 275_hispidin
+   1         -6.7      0.000      0.000
+ 276_6-(2-(3,4-dihydroxyphenyl)vinyl)-4-hydroxy-2H-pyran-2-one
+   1         -6.7      0.000      0.000
+ 277_digallic_acid
+   1         -5.2      0.000      0.000
+ 278_gallic_acid
+   1         -4.8      0.000      0.000
+ 279_methyl_gallate
+   1         -4.8      0.000      0.000
+ 27_3-O-alpha-arabinopyranosyl-(16)-beta-glucopyranosyl-1-octen-3-ol
+   1         -5.6      0.000      0.000
+ 280_chlorogenic_acid
+   1         -6.2      0.000      0.000
+ 281_2''-alpha-L-rhamnopyranosyl-hyperin
+   1         -5.9      0.000      0.000
+ 282_quercetin_3-O-beta-D-neohesperidoside
+   1         -6.2      0.000      0.000
+ 283_miquelianin
+   1         -7.4      0.000      0.000
+ 284_quercetin_3-O-beta-D-galacturonopyranoside
+   1         -5.8      0.000      0.000
+ 285_isoquercitrin
+   1         -5.9      0.000      0.000
+ 286_hyperin
+   1         -5.3      0.000      0.000
+ 287_isoquercitrin_6''-gallate
+   1         -6.3      0.000      0.000
+ 288_hyperin_6''-O-gallate
+   1         -6.0      0.000      0.000
+ 289_isoquercitrin_6''-O-p-hydroxybenzoate
+   1         -7.8      0.000      0.000
+ 28_3-O-alpha-arabinopyranosyl-(16)-beta-glucopyranosyl-(16)-beta-glucopyranosyl-1-octen-3-ol
+   1         -6.3      0.000      0.000
+ 290_2''-O-alpha-L-rhamnopyranosylhyperin-6''-O-gallate
+   1         -4.4      0.000      0.000
+ 291_(+)-catechin
+   1         -6.5      0.000      0.000
+ 292_myrcene
+   1         -4.9      0.000      0.000
+ 293_limonene
+   1         -4.9      0.000      0.000
+ 294_beta-gurjunene
+   1         -5.5      0.000      0.000
+ 295_germacrene
+   1         -5.5      0.000      0.000
+ 296_alpha-pinene
+   1         -4.9      0.000      0.000
+ 297_alpha-muurolene
+   1         -5.8      0.000      0.000
+ 298_alpha-humulene
+   1         -5.2      0.000      0.000
+ 299_epi-bicyclosesquiphellandrene
+   1         -6.2      0.000      0.000
+ 29_byzantionoside_B_6'-O-sulfate
+   1         -6.3      0.000      0.000
+ 2_9-O-beta-xylopyranosyl-(16)-O-beta-glucopyranosyl-(16)-O-beta-glucopyranosyl_trans-cinnamyl_alcohol
+   1         -6.3      0.000      0.000
+ 300_beta-pinene
+   1         -5.0      0.000      0.000
+ 301_3-methoxy_gallic_acid_5-sodium_sulphate
+   1         -5.6      0.000      0.000
+ 302_1,3-di-O-galloyl_glucose
+   1         -6.0      0.000      0.000
+ 303_2,3-di-O-galloyl_glucose
+   1         -5.9      0.000      0.000
+ 304_gallic_acid
+   1         -5.1      0.000      0.000
+ 305_gentesic_acid_2-O-glucoside
+   1         -5.8      0.000      0.000
+ 306_gentesic_acid_5-O-glucoside
+   1         -6.0      0.000      0.000
+ 307_protocatechuic_acid
+   1         -5.3      0.000      0.000
+ 308_p-hydroxybenzoic_acid
+   1         -5.3      0.000      0.000
+ 309_3-methoxy_gallic_acid
+   1         -5.2      0.000      0.000
+ 30_(Z)-hex-3-en-1-ol_O-beta-D-xylopyranosyl-(1''2')-beta-D-glucopyranoside
+   1         -6.3      0.000      0.000
+ 30_(Z)-hex-3-en-1-ol_O-beta-D-xylopyranosyl-(1''â†’2')-beta-D-glucopyranoside
+   1         -6.4      0.000      0.000
+ 310_kaempferol_3-O-(2''-sulphatogalactopyranoside)
+   1         -6.3      0.000      0.000
+ 311_quercetin_3-O-(2''-sulphatogalactopyranoside)
+   1         -5.6      0.000      0.000
+ 312_3,3''-dimethoxy_ellagic_acid_4-O-glucoside
+   1         -6.0      0.000      0.000
+ 313_3-methoxyellagic_acid_4-O-galactopyranoside
+   1         -5.5      0.000      0.000
+ 314_quercetin_3-O-arabinopyranoside
+   1         -6.6      0.000      0.000
+ 315_kaempferol_3-O-rhamnoside
+   1         -6.1      0.000      0.000
+ 316_quercetin_3-O-rhamnoside
+   1         -6.6      0.000      0.000
+ 317_kaempferol_3-O-galactoside
+   1         -6.0      0.000      0.000
+ 318_quercetin_3-O-galactoside
+   1         -5.8      0.000      0.000
+ 319_3,3',4-trimethoxyellagic_acid
+   1         -5.3      0.000      0.000
+ 31_beta-sitosterol_glucoside
+   1         -5.2      0.000      0.000
+ 320_kaempferol
+   1         -5.8      0.000      0.000
+ 321_quercetin
+   1         -6.0      0.000      0.000
+ 322_(2S,2''S)-7,7''-di-O-methyltetrahydroamentoflavone
+   1         -7.0      0.000      0.000
+ 323_7-O-methylnaringenin
+   1         -6.5      0.000      0.000
+ 324_7,3'-O-dimethylquercetin
+   1         -6.0      0.000      0.000
+ 325_7-O-methylapigenin
+   1         -6.5      0.000      0.000
+ 326_7-O-methylluteolin
+   1         -6.5      0.000      0.000
+ 327_eriodictyol
+   1         -6.3      0.000      0.000
+ 328_kaempferol-3-glucoside
+   1         -5.5      0.000      0.000
+ 329_quercetin-3-glucoside
+   1         -6.2      0.000      0.000
+ 32_vanilloside
+   1         -4.8      0.000      0.000
+ 330_quercetin-3-galactoside
+   1         -5.4      0.000      0.000
+ 331_quercetin-3-rutinoside
+   1         -7.7      0.000      0.000
+ 332_quercetin-3-glucoside-7-galactoside
+   1         -6.3      0.000      0.000
+ 333_vicenin-2
+   1         -5.1      0.000      0.000
+ 334_kaempferol-3-glucoside
+   1         -5.8      0.000      0.000
+ 335_quercetin-3-glucoside
+   1         -6.2      0.000      0.000
+ 336_vicenin-2
+   1         -5.1      0.000      0.000
+ 337_quercetin-3-glucoside
+   1         -6.3      0.000      0.000
+ 338_quercetin-3-rutinoside
+   1         -6.0      0.000      0.000
+ 339_myricetin-3-glucoside
+   1         -6.4      0.000      0.000
+ 33_bioside
+   1         -6.3      0.000      0.000
+ 340_myricetin-3-galactoside
+   1         -6.0      0.000      0.000
+ 341_myricetin-3-rutinoside
+   1         -6.3      0.000      0.000
+ 342_kaempferol-3-glucoside
+   1         -5.7      0.000      0.000
+ 343_quercetin-3-glucoside
+   1         -6.2      0.000      0.000
+ 344_quercetin-3-rutinoside
+   1         -7.1      0.000      0.000
+ 345_myricetin-3-glucoside
+   1         -6.3      0.000      0.000
+ 346_vicenin-2
+   1         -5.1      0.000      0.000
+ 347_flavone_3-methoxycarpachromene
+   1         -6.4      0.000      0.000
+ 348_foliamangiferoside_A
+   1         -6.4      0.000      0.000
+ 349_2,4',6-trihydroxy-4-methoxybenzophenone-2-O-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 34_decaffeoyl_verbascoside
+   1         -6.5      0.000      0.000
+ 350_foliamangiferoside_A1
+   1         -6.2      0.000      0.000
+ 351_foliamangiferoside_D
+   1         -6.6      0.000      0.000
+ 352_mangiferin
+   1         -6.4      0.000      0.000
+ 353_mangiferin_methyl_ether
+   1         -6.3      0.000      0.000
+ 354_mangiferoxanthone_A
+   1          1.3      0.000      0.000
+ 355_penta-O-galloyl-glucose
+   1         -7.4      0.000      0.000
+ 356_tetra-O-galloyl-glucose
+   1         -6.9      0.000      0.000
+ 357_gallic_glucoside
+   1         -6.7      0.000      0.000
+ 358_3-O-galloyl_quinic_acid
+   1         -5.8      0.000      0.000
+ 359_gallic_acid
+   1         -5.1      0.000      0.000
+ 35_acteoside
+   1         -7.0      0.000      0.000
+ 360_3,4-dihydroxybenzoic_anhydride
+   1         -6.2      0.000      0.000
+ 361_agasthisflavone
+   1         -7.3      0.000      0.000
+ 362_robustaflavone
+   1         -8.2      0.000      0.000
+ 363_tetrahydrorobustaflavone
+   1         -8.2      0.000      0.000
+ 364_4'-ethyl-4-methyl-2,3',5',6-tetrahydroxy[1,1'-biphenyl]-4,4'-dicarboxylate
+   1         -5.7      0.000      0.000
+ 365_3-ethyl-3'-methyl-4,4',5,5',6,6'-hexahydroxy-[1,1'-biphenyl]3,3'-dicarboxylate
+   1         -5.9      0.000      0.000
+ 366_p-hydroxybenzaldehyde
+   1         -4.6      0.000      0.000
+ 367_zarzissine
+   1         -5.0      0.000      0.000
+ 368_anchinopeptolide_A
+   1         -7.9      0.000      0.000
+ 369_oculiferane
+   1         -4.9      0.000      0.000
+ 36_verbascoside
+   1         -6.8      0.000      0.000
+ 370_epi-obtusane
+   1         -4.7      0.000      0.000
+ 371_subereamolline_A
+   1         -7.1      0.000      0.000
+ 372_subereamolline_B
+   1         -7.1      0.000      0.000
+ 373_aerothionin
+   1         -7.6      0.000      0.000
+ 374_homoaerothionin
+   1         -6.7      0.000      0.000
+ 375_11,19-dideoxyfistularin-3
+   1         -6.1      0.000      0.000
+ 376_aeroplysinin-1
+   1         -4.7      0.000      0.000
+ 377_subereaphenol_B
+   1         -5.0      0.000      0.000
+ 378_aeroplysinin-2
+   1         -5.4      0.000      0.000
+ 379_subereaphenol_C
+   1         -5.2      0.000      0.000
+ 37_syringin
+   1         -5.4      0.000      0.000
+ 380_subereamine_A
+   1         -6.4      0.000      0.000
+ 381_subereamine_B
+   1         -6.2      0.000      0.000
+ 382_subereaphenol_D
+   1         -4.8      0.000      0.000
+ 383_dichloroverongiaquinol
+   1         -5.3      0.000      0.000
+ 384_aerothionin
+   1         -7.3      0.000      0.000
+ 385_purealdin_L
+   1         -6.7      0.000      0.000
+ 386_desmiflavaside_A
+   1         -4.2      0.000      0.000
+ 387_desmiflavaside_B
+   1         -3.7      0.000      0.000
+ 388_vobtusine
+   1         -6.0      0.000      0.000
+ 389_voacamine
+   1         -4.4      0.000      0.000
+ 38_cistanoside_E
+   1         -6.4      0.000      0.000
+ 390_callichiline
+Reading input ...  391_voacangine
+   1         -5.8      0.000      0.000
+ 392_conoflorine
+   1         -6.9      0.000      0.000
+ 393_amataine
+   1         -1.1      0.000      0.000
+ 394_goziline
+   1         -0.8      0.000      0.000
+ 395_owerreine
+   1         -6.0      0.000      0.000
+ 396_beninine
+   1         -5.8      0.000      0.000
+ 397_1,2-dehydrobeninine
+   1         -5.7      0.000      0.000
+ 398_pinoresinol
+   1         -5.9      0.000      0.000
+ 399_syringaresinol
+   1         -5.4      0.000      0.000
+ 39_roseoside
+   1         -5.8      0.000      0.000
+ 3_syringin
+   1         -5.5      0.000      0.000
+ 400_leucanthemitol
+   1         -4.4      0.000      0.000
+ 401_E-ferulaldehyde
+   1         -5.7      0.000      0.000
+ 402_3-O-acetyl_chlorogenic_acid
+   1         -6.8      0.000      0.000
+ 403_kaempferol_3-O-beta-D-glucopyranoside
+   1         -6.2      0.000      0.000
+ 404_quercetin-3-O-beta-D-glucopyranoside
+   1         -6.2      0.000      0.000
+ 405_rhamnetin-3-O-beta-D-glucopyranoside
+   1         -5.7      0.000      0.000
+ 406_isorhamnetin-3-O-beta-D-glucopyranoside
+   1         -6.1      0.000      0.000
+ 407_isorhamnetin-3-O-beta-D-glucopyranoside-(2''1''')-rhamnopyranoside
+   1         -6.4      0.000      0.000
+ 408_caredulis,_1-{1-[2-(2_hydroxypropoxy)_propoxy]_propan-2-yloxy}_propan-2-ol
+   1         -5.3      0.000      0.000
+ 409_(+)butyl-O-alpha-L-rhamnoside
+   1         -4.6      0.000      0.000
+ 40_(+)-lyoniresinol_3alpha-O-beta-D-glucopyranoside
+   1         -5.7      0.000      0.000
+ 410_quercetin_3-O-galactoside
+   1         -6.4      0.000      0.000
+ 411_quercetin_3-O-xyloside
+   1         -6.1      0.000      0.000
+ 412_rutin
+   1         -6.9      0.000      0.000
+ 413_quercetin_3-O-rutinoside
+   1         -6.9      0.000      0.000
+ 414_kaempferol_3-O-rutinoside
+   1         -6.4      0.000      0.000
+ 415_isorhamnetin_3-O-rutinoside
+   1         -6.3      0.000      0.000
+ 416_quercetin_3-O-rhamnosyl(12)glucoside
+   1         -6.2      0.000      0.000
+ 417_quercetin_3-O-glucoside
+   1         -6.3      0.000      0.000
+ 418_kaempferol_3-O-rhamnosyl(12)glucoside
+   1         -5.2      0.000      0.000
+ 419_kaempferol_3-O-glucoside
+   1         -5.3      0.000      0.000
+ 41_isoacteoside
+   1         -7.0      0.000      0.000
+ 420_isorhamnetin_3-O-glucoside
+   1         -6.4      0.000      0.000
+ 421_kaempferol_3-O-galactoside
+   1         -6.4      0.000      0.000
+ 422_oleandrigenin-beta-D-glucosyl_(14)-beta-D-digitalose
+   1         -5.8      0.000      0.000
+ 423_calotroprocerol_A
+   1         -5.7      0.000      0.000
+ 424_calotroproceryl_acetate_A
+   1         -5.9      0.000      0.000
+ 425_calotroprocerone_A
+   1         -6.1      0.000      0.000
+ 426_calotroproceryl_acetate_B
+   1         -6.7      0.000      0.000
+ 427_pseudotaraxasterol_acetate
+   1         -6.6      0.000      0.000
+ 428_taraxasterol
+   1         -6.4      0.000      0.000
+ 429_calotropursenyl_acetate_B
+   1         -6.6      0.000      0.000
+ 42_3,4,5-trimethoxyphenol_O-alpha-L-rhamnopyranosyl-(1''6')-beta-D-glucopyranoside
+   1         -5.9      0.000      0.000
+ 430_stigmasterol
+   1         -7.4      0.000      0.000
+ 431_(E)-octadec-7-enoic_acid
+   1         -6.2      0.000      0.000
+ 432_5-hydroxy-3,7-dimethoxyflavone-4'-O-beta-glucopyranoside
+   1         -6.5      0.000      0.000
+ 433_uzarigenin
+   1         -6.3      0.000      0.000
+ 434_beta-anhydroepidigitoxigenin
+   1         -7.9      0.000      0.000
+ 435_3beta,14beta-dihydroxy-19-methoxy-5alpha-card-20(22)-enolide
+   1         -7.0      0.000      0.000
+ 436_beta-anhydroepidigitoxigenin-3beta-O-glucopyranoside
+   1         -6.7      0.000      0.000
+ 437_russelioside_E
+   1         -1.8      0.000      0.000
+ 438_russelioside_F
+   1         -3.2      0.000      0.000
+ 439_russelioside_G
+   1         -5.9      0.000      0.000
+ 43_N-(2-hydroxy-4,5-dimethoxyphenyl)-(S)-alpha-malamic_acid
+   1         -5.2      0.000      0.000
+ 440_russelioside_H
+   1          3.5      0.000      0.000
+ 441_pergularine_A
+   1         -6.4      0.000      0.000
+ 442_pergularine_B
+   1         -7.2      0.000      0.000
+ 443_oleic_acid
+   1         -6.3      0.000      0.000
+ 444_(9Z,12Z)-octadecadienoic_acid
+   1         -6.5      0.000      0.000
+ 445_alpha-amyrin
+   1         -6.7      0.000      0.000
+ 446_3-acetyltaraxasterol
+   1         -5.9      0.000      0.000
+ 447_3-taraxasterol
+   1         -6.5      0.000      0.000
+ 448_16alpha-hydroxytaraxasterol-3-acetate
+   1         -7.6      0.000      0.000
+ 449_(9Z,12Z)-octadecadienoic_acid_glucoside
+   1         -6.0      0.000      0.000
+ 44_isounedoside
+   1         -5.8      0.000      0.000
+ 450_stavaroside_A
+   1         -5.8      0.000      0.000
+ 451_stavaroside_B
+   1          1.1      0.000      0.000
+ 452_stavaroside_C
+   1          1.8      0.000      0.000
+ 453_stavaroside_D
+   1          1.6      0.000      0.000
+ 454_stavaroside_E
+   1         -3.9      0.000      0.000
+ 455_stavaroside_F
+   1         -2.0      0.000      0.000
+ 456_stavaroside_G
+   1         -2.7      0.000      0.000
+ 457_stavaroside_H
+   1         -5.5      0.000      0.000
+ 458_stavaroside_I
+   1         -0.4      0.000      0.000
+ 459_stavaroside_J
+   1          0.7      0.000      0.000
+ 45_(1S,7S)-1-((2R,3S,5S)-tetrahydro-3,4,5-trihydroxy-6-(hydroxymethyl)-2H-pyran-2-yloxy)-1,4a,5,6,7,7a-hexahydrocyclopenta[c]pyran-7-carboxylic_acid
+   1         -6.1      0.000      0.000
+ 460_stavaroside_K
+   1          1.7      0.000      0.000
+ 461_Stavaroside_H_tetraacetate
+   1         -0.9      0.000      0.000
+ 462_Stavaroside_H_diacetate
+   1         -5.0      0.000      0.000
+ 463_argeloside_K
+   1         -4.4      0.000      0.000
+ 464_argeloside_L
+   1          0.9      0.000      0.000
+ 465_argeloside_M
+   1         -4.8      0.000      0.000
+ 466_argeloside_N
+   1         -5.2      0.000      0.000
+ 467_argeloside_O
+   1         -6.6      0.000      0.000
+ 468_argeloside_D
+   1         -3.3      0.000      0.000
+ 469_argeloside_F
+   1         -2.9      0.000      0.000
+ 46_thunaloside
+   1         -5.2      0.000      0.000
+ 470_argeloside_I
+   1         -0.5      0.000      0.000
+ 471_argeloside_J
+   1         -3.7      0.000      0.000
+ 472_lupeol_arachidate
+   1         -5.7      0.000      0.000
+ 473_procrim_a
+   1         -6.5      0.000      0.000
+ 474_procrim_b
+   1         -6.7      0.000      0.000
+ 475_laevigatin_I
+   1         -7.5      0.000      0.000
+ 476_laevigatin_II
+   1         35.6      0.000      0.000
+ 477_lupeol_acetate
+   1         -5.4      0.000      0.000
+ 478_lupeol
+   1         -6.2      0.000      0.000
+ 479_15beta-hydroxy-5,6-dehydrocalotropin
+   1         -6.0      0.000      0.000
+ 47_alatoside
+   1         -5.7      0.000      0.000
+ 480_coroglaucigenin-3-(6-deoxy-beta-D-allopyranoside)-19-acetate
+   1         -7.2      0.000      0.000
+ 481_frugoside-19-acetate
+   1         -5.6      0.000      0.000
+ 482_5,6-dehydrocalotropagenin
+   1         -6.2      0.000      0.000
+ 483_16alpha-hydroxy-5,6-dehydrocalotropin
+   1         -7.6      0.000      0.000
+ 484_xysmalogenin
+   1         -6.4      0.000      0.000
+ 485_uzarigenin
+   1         -7.0      0.000      0.000
+ 486_calotropin
+   1         -7.3      0.000      0.000
+ 487_5,6-dehydrocalotropin
+   1         -6.8      0.000      0.000
+ 488_3'-epi-afroside
+   1         -6.0      0.000      0.000
+ 489_14beta,17alpha-epoxy-5,6-dehydrocalotropin
+   1         -6.5      0.000      0.000
+ 48_justiciamide
+   1         -5.2      0.000      0.000
+ 490_15beta-hydroxycalotropin
+   1         -6.1      0.000      0.000
+ 491_calotropin
+   1         -6.6      0.000      0.000
+ 492_3'-O-beta-D-glucocalotropin
+   1         -5.9      0.000      0.000
+ 493_3'-epi-afroside
+   1         -5.3      0.000      0.000
+ 494_desglucouzarin
+   1         -6.8      0.000      0.000
+ 495_frugoside
+   1         -6.6      0.000      0.000
+ 496_7,8-dehydrocalotropin
+   1         -6.1      0.000      0.000
+ 497_17alpha-hydroxy-7,8-dehydrocalotropin
+   1         -5.6      0.000      0.000
+ 498_19-acetylglucocoroglaucigenin
+   1         -6.5      0.000      0.000
+ 499_19-acetylglucofrugoside
+   1         -5.3      0.000      0.000
+ 49_hypoestenonol_A
+   1         -5.6      0.000      0.000
+ 4_4-O-beta-glucopyranosyl_dehydrodiconiferyl_alcohol
+   1         -6.1      0.000      0.000
+ 500_humistratagenin
+   1         -5.5      0.000      0.000
+ 501_caretroside_A
+   1         -5.6      0.000      0.000
+ 502_12beta-benzoyloxy-8beta,14beta-dihydroxypregn-20-one-3-O-[beta-D-oleandropyranosyl-(14)-beta-D-cymaropyranoside]
+   1         -3.3      0.000      0.000
+ 503_stemmoside_A
+   1         -6.2      0.000      0.000
+ 504_stemmoside_B
+   1         -6.1      0.000      0.000
+ 505_stemmin_C
+   1         -7.2      0.000      0.000
+ 506_6'-hydroxycalactin
+   1         -7.7      0.000      0.000
+ 507_6'-hydroxy-16alpha-acetoxycalactin
+   1         -4.5      0.000      0.000
+ 508_16alpha-hydroxycalactin
+   1         -5.9      0.000      0.000
+ 509_3'-O-alpha-D-glucopyranosylcalactin
+   1         -6.0      0.000      0.000
+ 50_hypoestenonol_B
+   1         -5.5      0.000      0.000
+ 510_12-dehydroxyghalakinoside
+   1         -6.3      0.000      0.000
+ 511_6-dehydroxyghalakinoside
+   1         -5.7      0.000      0.000
+ 512_ghalakinoside
+   1         -4.7      0.000      0.000
+ 513_calactin
+   1         -7.6      0.000      0.000
+ 514_russelioside_A
+   1         -5.5      0.000      0.000
+ 515_russelioside_B
+   1         -5.2      0.000      0.000
+ 516_russelioside_C
+   1         -6.0      0.000      0.000
+ 517_russelioside_D
+   1         -5.3      0.000      0.000
+ 518_luteolin_4'-O-beta-D-neohesperidoside
+   1         -6.0      0.000      0.000
+ 519_3'-O-beta-D-glucopyranosylcalactin
+   1         -5.4      0.000      0.000
+ 51_verticillarone
+   1         -6.1      0.000      0.000
+ 520_12-dehydroxyghalakinoside
+   1         -6.9      0.000      0.000
+ 521_6'-dehydroxyghalakinoside
+   1         -6.4      0.000      0.000
+ 522_ghalakinoside
+   1         -5.9      0.000      0.000
+ 523_calactin
+   1         -5.9      0.000      0.000
+ 524_periplocadiol
+   1         -5.2      0.000      0.000
+ 525_alpha-amyrin
+   1         -6.5      0.000      0.000
+ 526_beta-amyrin
+   1         -5.4      0.000      0.000
+ 527_lupeol
+   1         -6.3      0.000      0.000
+ 528_beta-sitosterol
+   1         -6.4      0.000      0.000
+ 529_beta-amyrin_acetate
+   1         -5.9      0.000      0.000
+ 52_hypoestenone
+   1         -6.9      0.000      0.000
+ 530_14beta-15alpha-dihydroxy-Delta4pregnene-3,20_dione
+   1         -6.7      0.000      0.000
+ 531_3beta-14beta,_15alpha-16alpha_hydroxy-20-oxo-Delta5pregnene-tetra-ol
+   1         -6.9      0.000      0.000
+ 532_alpha-amyrin
+   1         -6.4      0.000      0.000
+ 533_beta-amyrin
+   1         -5.4      0.000      0.000
+ 534_beta-sitosterol
+   1         -6.2      0.000      0.000
+ 535_cryptostigmin_I
+   1         -5.8      0.000      0.000
+ 536_cryptostigmin_II
+   1         -7.4      0.000      0.000
+ 537_cryptostigmin_III
+   1         -5.9      0.000      0.000
+ 538_cryptostigmin_IV
+   1         -3.5      0.000      0.000
+ 539_subalpinosid
+   1         -4.4      0.000      0.000
+ 53_blephariside_A
+   1         -6.9      0.000      0.000
+ 540_16-O-acetyl-digitalinum_verum
+   1         -5.9      0.000      0.000
+ 541_solargin_I
+   1         -6.8      0.000      0.000
+ 542_solargin_II
+   1         -7.0      0.000      0.000
+ 543_solargin_III
+   1         -7.0      0.000      0.000
+ 544_solargin_IV
+   1         -7.4      0.000      0.000
+ 545_alpinoside_A
+   1         34.6      0.000      0.000
+ 546_alpinoside_B
+   1         -2.2      0.000      0.000
+ 547_alpinoside_C
+   1          0.5      0.000      0.000
+ 548_russelioside_E
+   1          1.2      0.000      0.000
+ 549_russelioside_F
+   1         -5.1      0.000      0.000
+ 54_blephariside_B
+   1         -7.6      0.000      0.000
+ 550_russelioside_G
+   1         -6.4      0.000      0.000
+ 551_russelioside_H
+   1         -0.1      0.000      0.000
+ 552_15beta-hydroxy-7,8-dehydrocalotropin
+   1         -5.6      0.000      0.000
+ 553_15beta-hydroxycalotropin
+   1         -6.2      0.000      0.000
+ 554_6,7-dihydroxy-dihydrolinalool_3-O-beta-glucopyranoside
+   1         -5.3      0.000      0.000
+ 555_6,7-dihydroxy-dihydrolinalool_7-O-beta-glucopyranoside
+   1         -5.3      0.000      0.000
+ 556_pregn-5-ene-3,14-beta-dihydroxy-7,20-dione_3-O-beta-glucopyranoside
+   1         -5.6      0.000      0.000
+ 557_astragalin
+   1         -5.9      0.000      0.000
+ 558_kaempferol-3-O-alpha-rhamnopyranosyl-(12)-beta-glucopyranoside
+   1         -5.7      0.000      0.000
+ 559_stemmoside_C
+   1         -4.2      0.000      0.000
+ 55_quercetin_3-O-rutinoside
+   1         -6.3      0.000      0.000
+ 560_stemmoside_D
+   1         -0.6      0.000      0.000
+ 561_argeloside_C
+   1         -5.3      0.000      0.000
+ 562_argeloside_D
+   1         -4.1      0.000      0.000
+ 563_argeloside_E
+   1         -3.2      0.000      0.000
+ 564_argeloside_F
+   1         -4.1      0.000      0.000
+ 565_argeloside_G
+   1         -2.7      0.000      0.000
+ 566_argeloside_H
+   1          0.3      0.000      0.000
+ 567_argeloside_I
+   1         -6.3      0.000      0.000
+ 568_argeloside_J
+   1         -4.1      0.000      0.000
+ 569_argeloside_A
+   1         -0.6      0.000      0.000
+ 56_sphinga-4,8_dienine_ester
+   1         -5.3      0.000      0.000
+ 570_argeloside_B
+   1          5.4      0.000      0.000
+ 571_argeloside_A
+   1         -2.4      0.000      0.000
+ 572_argeloside_B
+   1          6.2      0.000      0.000
+ 573_penicilloside_A
+   1         -5.2      0.000      0.000
+ 574_penicilloside_B
+   1         -5.7      0.000      0.000
+ 575_penicilloside_C
+   1         -1.3      0.000      0.000
+ 576_penicilloside_D
+   1         -3.6      0.000      0.000
+ 577_penicilloside_E
+   1         -5.3      0.000      0.000
+ 578_penicilloside_F
+   1         -4.2      0.000      0.000
+ 579_penicilloside_G
+   1         -3.1      0.000      0.000
+ 57_suspensolide_A
+   1         -6.6      0.000      0.000
+ 580_caratuberside_C
+   1         -1.0      0.000      0.000
+ 581_caratuberside_D
+   1         -4.7      0.000      0.000
+ 582_caratuberside_E
+   1         -4.0      0.000      0.000
+ 583_caratuberside_F
+   1          3.2      0.000      0.000
+ 584_caratuberside_G
+   1         -2.8      0.000      0.000
+ 585_russelioside_B
+   1         -4.8      0.000      0.000
+ 586_russelioside_C
+   1         -5.5      0.000      0.000
+ 587_russelioside_D
+   1         -6.4      0.000      0.000
+ 588_russelioside_E
+   1         -2.5      0.000      0.000
+ 589_5,6-dehydrocalotropin
+   1         -5.1      0.000      0.000
+ 58_viburtinoside_A
+   1         -6.8      0.000      0.000
+ 590_irniine
+   1         -6.8      0.000      0.000
+ 591_R-bgugaine
+   1         -5.9      0.000      0.000
+ 592_3beta-hydroxyurs-12-en-28-oic_acid_3-O-[beta-D-galactopyranosyl-(12)]-beta-D-glucuronopyranoside
+   1         -6.7      0.000      0.000
+ 592_3beta-hydroxyurs-12-en-28-oic_acid_3-O-[beta-D-galactopyranosyl-(12â€™)]-beta-D-glucuronopyranoside
+   1         -5.8      0.000      0.000
+ 593_3beta-hydroxyurs-12-en-28-oic_acid_3-O-beta-D-glucuronopyranoside_6'-O-methyl_ester
+   1         -5.7      0.000      0.000
+ 594_3beta-hydroxyurs-12-en-28-oic_acid_3-O-beta-D-glucuronopyranoside_6'-O-butyl_ester
+   1         -4.7      0.000      0.000
+ 595_3beta-hydroxylup-20(29)-en-28-oic_acid_3-O-beta-D-glucuronopyranoside
+   1         -5.3      0.000      0.000
+ 596_3alpha-hydroxylup-20(29)-en-30-ol-23,28-dioic_acid
+   1         -6.4      0.000      0.000
+ 597_3alpha-hydroxylup-20(29)-en-23,28-dioic_acid_3-O-beta-D-glucopyranoside
+   1         -4.1      0.000      0.000
+ 598_3alpha-hydroxylup-20(29)-ene-23,28-dioic_acid_23-O-beta-D-glucopyranosyl_ester
+   1         -6.3      0.000      0.000
+ 599_3alpha-hydroxylup-20(29)-ene-23,28-dioic_acid
+   1         -6.6      0.000      0.000
+ 59_viburtinoside_B
+   1         -5.8      0.000      0.000
+ 5_7-O-beta-glucopyranosyl_benzyl_alcohol
+   1         -5.3      0.000      0.000
+ 600_3alpha-hydroxylup-20(29)-ene-23,28-dioic_acid_28-O-[4-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1         -2.7      0.000      0.000
+ 601_3alpha,23-dihydroxylup-20(29)-en-28-oic_acid_28-O-[4'-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1         -5.0      0.000      0.000
+ 602_3-epi-betulinic_acid_3-O-sulphate
+   1         -5.9      0.000      0.000
+ 603_3-epi-betulinic_acid_3-O-beta-D-glucopyranoside
+   1         -4.8      0.000      0.000
+ 604_3-epi-betulinic_acid_3-O-sulphate,_28-O-[4'-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1         -4.4      0.000      0.000
+ 605_3-epi-betulinic_acid_28-O-[4'-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1         -3.3      0.000      0.000
+ 606_3-epibetulinic_acid_3-O-beta-D-glucopyranoside,_28-O-[4'-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1         -0.6      0.000      0.000
+ 607_3-epi-betulinic_acid_3-O-beta-D-6'-acetylglucopyranoside,_28-O-[4'-O-alpha-L-rhamnopyranosyl-6'-O-beta-D-glucopyranosyl]-beta-D-glucopyranosyl_ester
+   1          4.5      0.000      0.000
+ 608_3-O-alpha-L-arabinopyranosyl_echinocystic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]_ester
+   1         -1.3      0.000      0.000
+ 609_3-O-beta-D-glucopyranosyl_3beta-hydroxy_olean-11,13(18)-dien-28-oic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]ester
+   1         -0.2      0.000      0.000
+ 60_scopoletin_7-O-beta-D-sophoroside
+   1         -6.3      0.000      0.000
+ 610_3-O-[alpha-L-rhamnopyranosyl-(12)-beta-D-glucopyranosyl]3beta-hydroxy_olean-11,13(18)-dien-28-oic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]_ester
+   1         -1.8      0.000      0.000
+ 611_3-O-[alpha-L-rhamnopyranosyl-(12)-alpha-L-arabinopyranosyl]3beta,23-dihydroxy_olean-18-_en-28-oic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-6-O-acetyl_glucopyranosyl-(16)-beta-D-glucopyranosyl]ester
+   1         -2.3      0.000      0.000
+ 612_3-O-[alpha-L-rhamnopyranosyl-(12)-alpha-L-arabinopyranosyl]hederagenin_28-O-{alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(1-6)-[beta-D-xylopyranosyl-(12)-]beta-D-glucopyranosyl}ester
+   1          9.9      0.000      0.000
+ 613_3-O-[alpha-L-rhamnopyranosyl-(12)-alpha-L-arabinopyranosyl]hederagenin_28-O-{alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-[beta-D-glucopyranosyl_(12)-]beta-D-glucopyranosyl}_ester
+   1          9.0      0.000      0.000
+ 614_3-O-[alpha-L-rhamnopyranosyl-(12)-alpha-L-arabinopyranosyl]_hederagenin_28-O-{alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-[alpha-L-arabinofuranosyl-(12)]-beta-D-glucopyranosyl}_ester
+   1         -3.7      0.000      0.000
+ 615_saponin_8
+   1          1.4      0.000      0.000
+ 616_saponin_9
+   1         -3.6      0.000      0.000
+ 617_saponin_10
+   1         -4.5      0.000      0.000
+ 618_saponin_11
+   1         -1.7      0.000      0.000
+ 619_ciwujianoside_C3
+   1         -6.8      0.000      0.000
+ 61_2,6-di-C-methyl-dinicotinic_acid_3,5-diethyl_ester
+   1         -5.5      0.000      0.000
+ 620_eleutheroside
+   1          0.6      0.000      0.000
+ 621_ciwujianoside_C4
+   1          1.7      0.000      0.000
+ 622_saponin_15
+   1         -1.8      0.000      0.000
+ 623_kalopanaxsaponin_B
+   1         -3.0      0.000      0.000
+ 624_saponin_17
+   1          6.4      0.000      0.000
+ 629_leonticin_E
+   1         11.7      0.000      0.000
+ 62_nobiletin
+   1         -5.5      0.000      0.000
+ 630_3-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucuronopyranosyl]_oleanolic_acid
+   1         -4.3      0.000      0.000
+ 631_3-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucuronopyranosyl]_echinocystic_acid
+   1         -4.7      0.000      0.000
+ 632_3-O-[beta-D-apiofuranosyl-(14)-beta-D-glucuronopyranosyl]oleanolic_acid_28-O-beta-D-glucopyranosyl_ester
+   1         -2.3      0.000      0.000
+ 633_3-O-alpha-L-ramnopyranosyl-(14)-[alpha-L-arabinopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid
+   1         -6.1      0.000      0.000
+ 634_3-O-alpha-L-rhamnopyranosyl-(14)-[alpha-L-arabinopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid_28-O-beta-D-glucopyranosyl_ester
+   1         -0.5      0.000      0.000
+ 635_3-O-alpha-L-rhamnopyranosyl-(14)-[beta-D-galactopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid
+   1         -4.1      0.000      0.000
+ 636_3-O-alpha-L-rhamnopyranosyl-(14)-[beta-D-galactopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid_28-O-beta-D-glucopyranosyl_ester
+   1          4.8      0.000      0.000
+ 637_3-O-beta-D-apiofuranosyl-(14)-[alpha-L-arabinopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid
+   1         -5.3      0.000      0.000
+ 638_3-O-beta-D-apiofuranosyl-(14)-[alpha-L-arabinopyranosyl-(12)-]_beta-D-glucuronopyranosyl_oleanolic_acid_28-O-beta-D-glucopyranosyl_ester
+   1         -0.9      0.000      0.000
+ 639_3-_O-[beta-D-glucopyranosyl-(12)-beta-D-glucuronopyranosyl]_hederagenin_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]_ester
+   1          8.6      0.000      0.000
+ 63_afzelin
+   1         -6.2      0.000      0.000
+ 640_3-O-[beta-D-glucopyranosyl-(12)-beta-D-glucuronopyranosyl]_oleanolic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]ester
+   1         -0.2      0.000      0.000
+ 641_3-O-[beta-D-glucopyranosyl-(12)-beta-D-glucuronopyranosyl]_oleanolic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-6-O-acetyl_glucopyranosyl-(16)-beta-D-glucopyranosyl]ester
+   1          4.1      0.000      0.000
+ 642_3-O-[beta-D-glucopyranosyl-(13)-beta-D-glucopyranosyl-(13)-alpha-L-arabinopyranosyl]_oleanolic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]_ester
+   1          3.1      0.000      0.000
+ 643_3-O-[beta-D-glucopyranosyl-(12)-beta-D-glucuronopyranosyl]_hederagenin
+   1         -5.5      0.000      0.000
+ 644_3-O-[beta-D-galactopyranosyl-(12)-beta-D-glucuronopyranosyl]_hederagenin
+   1         -5.3      0.000      0.000
+ 645_begoniifolide
+   1         -3.9      0.000      0.000
+ 646_zingibroside_R1
+   1         -5.7      0.000      0.000
+ 647_chikusetsusaponin_V
+   1          3.4      0.000      0.000
+ 648_hemsloside_G2
+   1          0.1      0.000      0.000
+ 649_3_-O-[beta-D-glucopyranosyl-(12)-beta-D-glucuronopyranosyl]_hederagenin_28-O-beta-D-glucopyranosyl_ester
+   1         -2.4      0.000      0.000
+ 64_quercitrin
+   1         -6.5      0.000      0.000
+ 650_udosaponin_F
+   1          0.7      0.000      0.000
+ 651_ilexoside_XLIX
+   1         -3.3      0.000      0.000
+ 652_hederasaponin_F
+   1         -4.1      0.000      0.000
+ 653_ciwujianoside_A1
+   1         -4.8      0.000      0.000
+ 654_ciwujianoside_C3
+   1         -4.3      0.000      0.000
+ 655_cauloside_D
+   1         -5.5      0.000      0.000
+ 656_3-O-[beta-D-glucopyranosyl-(13)]-[beta-D-glucopyranosyl-(12)]-alpha-L-arabinopyranosyl_echinocystic_acid
+   1         -3.7      0.000      0.000
+ 657_3-O-[beta-D-glucopyranosyl-(13)]-[beta-D-glucopyranosyl-(12)]-alpha-L-arabinopyranosyl_echinocystic_acid_28-O-[alpha-L-rhamnopyranosyl-(14)-beta-D-glucopyranosyl-(16)-beta-D-glucopyranosyl]_ester
+   1          8.1      0.000      0.000
+ 65_isoquercitrin
+   1         -6.0      0.000      0.000
+ 660_oleanolic_acid
+   1         -7.1      0.000      0.000
+ 661_3-O-alpha-L-arabinopyranosyl-ursolic_acid
+   1         -5.9      0.000      0.000
+ 662_3-O-alpha-L-arabinopyranosyl-echinocystic_acid
+   1         -5.8      0.000      0.000
+ 663_calenduloside_E
+   1         -5.9      0.000      0.000
+ 664_3-O-beta-D-glucuronopyranosyl-oleanolic_acid
+   1         -5.4      0.000      0.000
+ 665_ciwujianoside_C3
+   1         -1.7      0.000      0.000
+ 666_3-O-alpha-L-arabinopyranosyl-ursolic_acid_28-O-alpha-L-rhamnopyranosyl-(14)-beta-D-gentiobiosyl_ester
+   1          0.2      0.000      0.000
+ 667_3-O-alpha-L-arabinopyranosyl-oleanolic_acid_28-O-alpha-L-rhamnopy-ranosyl-(14)-beta-D-gentiobiosyl_ester
+   1          1.2      0.000      0.000
+ 668_3-O-alpha-L-arabinopyranosyl-echinocystic_acid_28-O-alpha-L-rhamnopyranosyl-(14)-beta-D-gentiobiosyl_ester
+   1         -2.8      0.000      0.000
+ 669_hederasaponin_F
+   1         -6.2      0.000      0.000
+ 66_hyperin
+   1         -6.4      0.000      0.000
+ 670_3-O-beta_sulphate-oleanolic_acid_28-O-alpha-L-rhamnopyranosyl-(14)-beta-D-gentiobiosyl_ester
+   1          6.6      0.000      0.000
+ 671_bacterioruberin
+   1         32.1      0.000      0.000
+ 672_lycopene
+   1         -1.7      0.000      0.000
+ 673_tricin_7-O-beta-glucopyranoside-2''-sulphate_sodium_salt
+   1         -6.0      0.000      0.000
+ 674_genkwanin-6-C-beta-glucopyranoside
+   1         -6.3      0.000      0.000
+ 675_genkwanin_8-C-beta-glucopyranoside
+   1         -6.1      0.000      0.000
+ 676_isovitexin
+   1         -6.1      0.000      0.000
+ 677_isoorientin
+   1         -6.5      0.000      0.000
+ 678_orientin
+   1         -5.8      0.000      0.000
+ 679_tricin_7-O-beta-glucopyranoside
+   1         -6.0      0.000      0.000
+ 67_rutin
+   1         -7.4      0.000      0.000
+ 680_tricin_4'-O-beta-glucopyranoside
+   1         -5.6      0.000      0.000
+ 681_luteolin_7-O-beta-glucopyranoside
+   1         -6.8      0.000      0.000
+ 682_quercetin_3-O-beta-glucopyranoside
+   1         -5.5      0.000      0.000
+ 683_quercetin_3-O-beta-galactopyanoside
+   1         -5.7      0.000      0.000
+ 684_tricin
+   1         -6.2      0.000      0.000
+ 685_quercetin
+   1         -6.0      0.000      0.000
+ 686_apigenin
+   1         -6.3      0.000      0.000
+ 687_luteolin
+   1         -6.2      0.000      0.000
+ 688_sablacaurin_A
+   1         -7.2      0.000      0.000
+ 689_25-ethyl,23-methyl-19-nor-24-methylene-3,4-seco-4(28)-lanosten-10,3-olide
+   1         -6.7      0.000      0.000
+ 68_oleanolic_acid
+   1         -5.5      0.000      0.000
+ 690_beta-sitosterol
+   1         -5.4      0.000      0.000
+ 691_sablacaurin_B
+   1         -6.2      0.000      0.000
+ 692_24-ethyl,24-methyl-19-nor-3,4-seco-4(28),25(26)-lanostadiene-10,3-olide
+   1         -5.7      0.000      0.000
+ 693_squalene
+   1         -6.8      0.000      0.000
+ 694_3-oxo-24-methylenecycloartane
+   1         -7.0      0.000      0.000
+ 695_24-methylcycloart-25(26)-en-3-one
+   1         -7.4      0.000      0.000
+ 696_diosmetin_7-O-beta-L-arabinofuranosyl_(12)_beta-D-apiofuranoside
+   1         -4.5      0.000      0.000
+ 697_diosmetin_7-O-beta-D-apiofuranoside
+   1         -6.8      0.000      0.000
+ 698_vitexin
+   1         -5.9      0.000      0.000
+ 699_8-C-beta-D-glucopyranosyl-5,7,4'-trihydroxyflavone
+   1         -5.9      0.000      0.000
+ 69_(25_R)-5alpha_spirostane-3beta,_6alpha,_23-triol_3,6-di-O-beta-D-glucopyranoside
+   1         -4.2      0.000      0.000
+ 6_7-O-beta-apiofuranosyl-(16)-O-beta-glucopyranosyl_benzyl_alcohol
+   1         -6.0      0.000      0.000
+ 700_iso-vitexin
+   1         -6.0      0.000      0.000
+ 701_6-C-beta-D-glucopyranosyl-_5,7,4'-trihydroxyflavone
+   1         -5.9      0.000      0.000
+ 702_quercetin_3-O-beta-4C1-D-glucopyranoside
+   1          3.9      0.000      0.000
+ 703_gallic_acid
+   1         -5.1      0.000      0.000
+ 704_quercetin_7-O-beta-4C1-D-glucoside
+   1         -6.3      0.000      0.000
+ 705_luteolin_7-O-beta-4C1-D-glucoside
+   1         -6.5      0.000      0.000
+ 706_tricin_5_O-beta-4C1-D-glucoside
+   1         -6.0      0.000      0.000
+ 707_rhamnazin_3-O-rutinoside
+   1         -6.9      0.000      0.000
+ 708_7,_3'-dimethoxy_quercetin_3-O-[6''-O-alpha-L-rhamnopyranosyl]-beta-D-gluco-pyranoside
+   1         -6.5      0.000      0.000
+ 709_nicotiflorin
+   1         -6.4      0.000      0.000
+ 70_hecogenin-3-O_beta-D-glucopyranosyl-(12)-[beta-D-xylopyranosyl-(13)]-beta-D-glucopyranosyl_(14)_beta-D-galactopyranoside
+   1          4.5      0.000      0.000
+ 70_hecogenin-3-O_beta-D-glucopyranosyl
+   1         -0.8      0.000      0.000
+ 710_kaempferol-3-O-[6''-O-alpha-L-rhamnopyranosyl]-beta-D-glucopyranoside
+   1         -6.0      0.000      0.000
+ 711_apigenin
+   1         -6.3      0.000      0.000
+ 712_luteolin
+   1         -6.2      0.000      0.000
+ 713_tricin
+   1         -6.3      0.000      0.000
+ 714_quercetin
+   1         -6.0      0.000      0.000
+ 715_kaempferol
+   1         -5.8      0.000      0.000
+ 716_caprylic_acid
+   1         -4.7      0.000      0.000
+ 717_capric_acid
+   1         -5.1      0.000      0.000
+ 718_lauric_acid
+   1         -5.5      0.000      0.000
+ 719_myristic_acid
+   1         -5.5      0.000      0.000
+ 71_hecogenin-3-O-beta-D-_xylopyranosyl-(13)-beta-D-glucopyranosyl-(12)_[beta-D-xylopyranosyl_(13)]-beta-D-glucopyranosyl_(14)-beta-D-galactopyranoside
+   1          2.6      0.000      0.000
+ 71_hecogenin-3-O-beta-D-_xylopyranosyl
+   1          0.2      0.000      0.000
+ 720_palmitic_acid
+   1         -5.7      0.000      0.000
+ 721_stearic_acid
+   1         -6.5      0.000      0.000
+ 722_oleic_acid
+   1         -5.9      0.000      0.000
+ 723_linoleic_acid
+   1         -6.1      0.000      0.000
+ 724_beta-sitosterol
+   1         -6.2      0.000      0.000
+ 725_stigmasterol
+   1         -7.3      0.000      0.000
+ 726_campesterol
+   1         -7.4      0.000      0.000
+ 727_(-)-(R,R)-7'-O-methylcuspidaline
+   1         -6.4      0.000      0.000
+ 728_(-)-temuconine
+   1         -7.8      0.000      0.000
+ 729_tetraacetylsphingamine_4a
+   1         -5.8      0.000      0.000
+ 72_hecogenin-3-O-alpha-L-rhamnopyranosyl
+   1          5.2      0.000      0.000
+ 72_hecogenin-3-O-alpha-L-rhamnopyranosyl_(14)_beta-D-xylopyranosyl_(13)[beta-D-glucopyranosyl_(12)]_Î²-D-glucopyranosyl_(14)_beta-D-galactopyranoside
+   1          3.6      0.000      0.000
+ 730_methyl_ester_of_acetoxy-2-heneidecanoic_acid
+   1         -7.2      0.000      0.000
+ 731_luteolin_7-O-methylether_3'-O-beta-D-glucoside
+   1         -5.1      0.000      0.000
+ 732_luteolin_7-O-methylether_3'-O-beta-D-galactoside
+   1         -6.4      0.000      0.000
+ 733_luteolin_7-O-methylether
+   1         -6.5      0.000      0.000
+ 734_chrysoeriol_7-O-glucoside
+   1         -6.6      0.000      0.000
+ 735_isorhamnetin_3-O-rutinoside
+   1         -6.1      0.000      0.000
+ 737_halistanol_sulphate_G
+   1         -4.8      0.000      0.000
+ 738_halistanol_sulphate_H
+   1         -5.6      0.000      0.000
+ 739_halistanol_sulphate_C
+   1         -3.7      0.000      0.000
+ 73_3-O-alpha-L-rhamnopyranosyl
+   1         -4.1      0.000      0.000
+ 740_(24R)-6beta-hydroxy-24-ethyl-cholest-4-en-3-one
+   1         -7.7      0.000      0.000
+ 741_phytyl-3,7,11,15-tetramethyl-2-hexadecanenate
+   1         -5.6      0.000      0.000
+ 742_squalene
+   1         -6.8      0.000      0.000
+ 743_ethyl_phytylate
+   1         -6.2      0.000      0.000
+ 744_6,10,14-trimethylpentadecan-2-one
+   1         -5.9      0.000      0.000
+ 745_sitosterol
+   1         -5.7      0.000      0.000
+ 746_hydroxyhopane
+   1         -7.0      0.000      0.000
+ 747_(24R)-3beta-hydroxy-ethylcholest-5-en-6-one
+   1         -7.2      0.000      0.000
+ 748_phytol
+   1         -6.1      0.000      0.000
+ 749_berberine
+   1         -7.0      0.000      0.000
+ 74_neoruscogenin1-O-beta-D-glucopyranosyl-(13)-[alpha-L-rhamnopyranosyl-(12)]-beta-D-glucopyranosyl-(14)-beta-D-galactopyranoside
+   1          2.8      0.000      0.000
+ 750_lupeol
+   1         -5.8      0.000      0.000
+ 751_betulinaldehyde
+   1         -6.4      0.000      0.000
+ 752_terminic_acid
+   1         -7.4      0.000      0.000
+ 753_betulinic_acid
+   1         -6.4      0.000      0.000
+ 754_maslinic_acid
+   1         -6.1      0.000      0.000
+ 755_beta-sitosterol_3-O-glucoside
+   1         -6.6      0.000      0.000
+ 756_isoacteoside
+   1         -7.5      0.000      0.000
+ 757_2-(3,4-dihydroxyphenyl)_ethyl-3-O-alpha-L-rhamnopyranosyl-4-O-p-hydroxyphenylacetyl-6-O-caffeoyl-beta-D-glucopyranoside
+   1         -6.9      0.000      0.000
+ 758_2-(3,4-dihydroxyphenyl)_ethyl-3-O-alpha-L-rhamnopyranosyl-4-O-piperidine-_3-carboxylic_acid-6-O-caffeoyl-alpha-D-glucopyranoside
+   1         -6.6      0.000      0.000
+ 759_5-hydroxysesamin_5-O-beta-D-glucopyranosyl-(12)-[beta-D-gluco-pyranosyl-(16)]-beta-D-glucopyranoside
+   1         -5.9      0.000      0.000
+ 75_1-O-alpha-L-rhamnopyranosyl-(12)-[alpha-L-rhamnopyranosyl-(14)]-beta-D-glucopyranosyl-26-O-beta-D-glucopyranosyl-22-O-methylfurosta-5,25(27)-diene-1beta,3beta,22,26-tetraol
